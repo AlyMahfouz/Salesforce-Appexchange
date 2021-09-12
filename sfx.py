@@ -1,3 +1,5 @@
+#%%
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from time import sleep
@@ -8,10 +10,12 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
+import re
 from math import ceil
 
 from typing import List
 
+#%%
 
 def html_to_ids(html_text: str) -> List[str]:
     ids = []
@@ -48,20 +52,20 @@ def get_app_ids(selpath: str) -> List[str]:
     app_count = driver.find_element_by_id("total-items-store")
     app_count = int(app_count.get_attribute('innerHTML'))
 
-#    pcount = ceil(app_count / 24)
-    pcount = 1
+    # For DEMO! Each 28 apps takes up to 423.2s
+    # app_count = 28
 
-    for n in range(pcount):
+    count = 28
+    while count <= app_count:
         try:
-            print(f'page {n+1}')
             button = driver.find_element_by_id("appx-load-more-button-id")
             # clicking on the button
             button.click()
             sleep(10.0)
             print('click successful')
+            count += 28
         except Exception as ex:
             print(ex)
-#            n = n-1
 
 
     dt = driver.find_element_by_id("appx-table-results")
@@ -162,12 +166,23 @@ def get_Requirements() -> str:
         return re
 
 def get_Support() -> str:
+    ret = ""
     try:
-        re = ""
-        return re
+        support_list = [["Phone","AppxListingDetailOverviewTab:listingDetailOverviewTab:appxListingDetailOverviewTabComp:j_id129"], ["Email","AppxListingDetailOverviewTab:listingDetailOverviewTab:appxListingDetailOverviewTabComp:j_id131"], ["Knowledge","AppxListingDetailOverviewTab:listingDetailOverviewTab:appxListingDetailOverviewTabComp:j_id137"]]
+        for st in support_list:
+            support = app_sub_soup.find('div',id=st[1])
+            if support is None:
+                continue
+            else:
+                if(st[0] == "Phone"):
+                    ret = support.contents[0] + "\n"
+                if(st[0] == "Email"):
+                    ret = ret + "Ëmail" + '\n' + re.findall(r'"(?:(?:(?!(?<!\\)").)*)"',str(support.contents))[0][1:-1].split(':')[1] + '\n'
+                if(st[0] == "Knowledge"):
+                    ret = ret + "Knowledge Base" + '\n' + re.findall(r'"(?:(?:(?!(?<!\\)").)*)"',str(support.contents))[0][1:-1] + '\n'
+        return ret.strip()
     except:
-        re = ""
-        return re
+        return ret.strip()
 
 def get_Additional_Information() -> str:
     try:
@@ -228,11 +243,12 @@ def get_Address() -> str:
     except:
         re = ""
         return re
+#%%
 
 if __name__ == "__main__":
-    apps_ids_list = get_app_ids(r'C:\Users\alyma\Desktop\Salesforce-Appexchange\chromedriver.exe')
+    apps_ids_list = get_app_ids(r'C:\Github\Salesforce-Appexchange\chromedriver.exe')
     
-        # creating pandas and setting all attributes needed
+    # creating pandas and setting all attributes needed
     df = pd.DataFrame(columns=['Name','Pricing','Categories',
                                'Ratings','Latest Release',
                                'Tool Intro Information','Highlights','Description','Requirements',
@@ -264,7 +280,7 @@ if __name__ == "__main__":
         row.append(get_Highlights())
         row.append(get_Description())
         row.append(get_Requirements())
-        row.append('')
+        row.append(get_Support())
         row.append(get_Additional_Information())
         row.append(get_About_Company())
         row.append(get_Website())
@@ -274,4 +290,5 @@ if __name__ == "__main__":
         df = df.append(pd.DataFrame(row, columns=df.columns), ignore_index=True)
         
     df = df.replace('', np.nan)
-    df.to_csv('SF.csv', index=False, encoding='utf-8')
+    df.to_csv('Demo_SF.csv', index=False, encoding='utf-8')
+#%%

@@ -1,0 +1,1016 @@
+Name,Pricing,Categories,Ratings,Latest Release,Tool Intro Information,Highlights,Description,Requirements,Support,Additional Information,About Company,Website,Email,Address
+Salesforce Adoption Dashboards,Free,Admin & Developer Tools,-495,12/2/2020,"Provides visibility to relevant user login history & key feature adoption!
+ Great user adoption doesn’t just happen!   The Salesforce Adoption Dashboards provide visibility to relevant user login history & trending, adoption of key features such as accounts & opportunities, and critical sales and marketing productivity enhancers.","Relevant user login history and trending
+
+Adoption of key Salesforce.com features
+
+Adoption of critical sales and marketing productivity enhancers","This Package includes 42 reports, 6 custom fields, 3 Dashboards, 1 Dashboard Folder and 1 Report Folder that focus on identifying whether users are regularly logging in and using key features in Salesforce. Downloading this app creates a ""Salesforce Adoption Dashboards” Dashboard folder and a “DB – Adoption” Report folder with their associated reports and dashboards.  ####This package can be leveraged with other AppExchange Adoption Dashboard packages and can also be customized to track the specific metrics that are important to your organization.  Either way, it’s a great starting point for kicking your companies’ adoption into high gear.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Salesforce Adoption Dashboards
+Version
+1.0 / 1.0.0
+Listed On
+10/26/2011
+Latest Release
+12/3/2020
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+"AppExchange Dashboard Pack for Sales, Marketing and Service",Free,Admin & Developer Tools,-35,3/15/2009,"Great dashboard pack to get you started.
+ Consolidated Lab dashboards for one Installation of Sales, Marketing, and Support.","Install all the free Labs Dashboards with one click
+
+Instant Visibility into EVERYTHING in your Salesforce Account
+
+EASY!","All the Free Dashboards Consolidated for a one-time install. Sales, Marketing, Support, Adoption, Usage and more.....total of 7 categories of dashboards.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+AppX Dashboard Pak
+Version
+1 / 1.0
+Listed On
+9/4/2007
+Latest Release
+3/16/2009
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Salesforce for Slack - Unlock collaboration across sales and service,Free,Productivity,-30,8/13/2021,"Collaborate across sales and service teams with the new Slack app!
+ Support for custom objects across Sales Cloud and Service Cloud, in both Classic and Lightning experiences.","1. Stay in the know####Customize your public or private channels to notify you or your team about new and updated records, like when an opportunity changes stage or a new lead is created.
+
+2. Keep everyone on track####Use ""/salesforce [search terms]"" to find and preview all standard and custom Salesforce objects, all without leaving Slack.
+
+3. Extend collaboration across sales and service####Easily send Salesforce records directly to Slack channels, and link key customer interactions and internal conversations with related Salesforce records.","Please note that this app requires access to the Salesforce API. If you use Salesforce Professional, you need the API Access add-on to use Slack and Salesforce together. To take full advantage of the Slack integration, install the companion Slack app. Learn more at https://slack.com/app-pages/salesforce####Known Issue:####Some users have reported issues in using this package in their partner business org with LMA. This is under investigation. Till the analysis is completed,  we recommend not to install this package for partner business orgs with LMA installed.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements","Ëmail
+feedback@slack.com
+Knowledge Base
+https://slack.com/help/articles/227838227","Package Name
+Slack
+Version
+Slack / 1.88.0
+Listed On
+10/16/2019
+Latest Release
+8/13/2021
+Languages
+English","Slack is the collaboration hub that brings the right people, information, and tools together to get work done. From Fortune 100 companies to corner markets, millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward.####Slack is where work happens.",https://www.slack.com,feedback@slack.com,"San Francisco, CA"
+Trail Tracker - by Trailhead,Free,Dashboards & Reports,-257,9/9/2021,"The fun way to empower your employees to learn Salesforce.
+ Install this free app to guide your employees through their Salesforce learning adventure on Trailhead. Assign, track, and report on badges earned by your team via pre-built reports and dashboards to take your Salesforce game to the next level.","Automatically sync Trailhead activity (in progress and completed badges) for your employees into your Salesforce org on a daily basis.
+
+Personalize your onboarding and training programs by assigning relevant Trailhead badges to your employees.
+
+Use pre-built reports and dashboards to track badges earned by individual users and teams.","Do you use Trailhead, the fun way to learn Salesforce, to onboard, skill up, and assess the Salesforce knowledge of your employees? With Trail Tracker, you can easily guide your employees through Trailhead by assigning badges and building reports and dashboards to map out their learning adventure. Grow and retain top Salesforce talent by fostering a culture of learning at your company—and maybe even drive some healthy competition to dial up the fun?####WHAT’S INSIDE?##Trail Tracker is a managed package of custom objects and pre-built reports and dashboards, including:  ####- Badges: an inventory of all badges available on Trailhead, including useful metadata such as role, level, etc####- User Badges: the record of badge activity (assigned, in progress, and completed) for a specific user in your org####- Reports: out-of-the-box reports including Most Popular Badges, Most Active Users, Total Badges Assigned, etc####- Dashboard: an at-a-glance overview that visualizes key metrics with charts and graphs####Important: Employees must log into Trailhead with their production org user credentials for their data to be synced to your org.  See Installation Guide and FAQ for details.","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Knowledge Base
+https://trailhead.salesforce.com/help","Package Name
+Trail Tracker
+Version
+3.7 / 3.7.0
+Listed On
+5/9/2017
+Latest Release
+9/9/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+DocuSign eSignature for Salesforce: The trusted eSignature solution,Starting at $30 USD per user per month,Customer Service,-4614,7/8/2021,"Close deals faster in Salesforce with DocuSign eSignature for Salesforce
+ Send, sign, track and save agreements in Salesforce with the most downloaded electronic signature app on the AppExchange. ####Get started with a free 30-day trial by clicking “Get It Now”","Create, send standard agreements for signature, trigger actions and track status from the Opportunity or Account. And, automatically store agreements on the original record with our Lightning Ready integration that works across the Customer 360 platform.
+
+Elevate the customer signing experience and accelerate business cycles with an intuitive signing experience anytime, anywhere, from practically any device.
+
+DocuSign is the market leader in electronic signatures, with over 700,000 customers and hundreds of millions of signers. Salesforce is also DocuSign customer, and uses our technology across Sales, HR, Purchasing/Procurement, and other departments.","• Maximize your Salesforce investment and streamline your processes with the world’s most trusted eSignature solution for the world’s #1 CRM. ####• Send agreements for signatures: Send agreements directly to Salesforce contacts or specify email addresses. Include messages, reminders, and authentication options.####• Create agreements with Salesforce data: Create agreements with DocuSign templates that pull in any Salesforce data saved on that record with merge fields.####• Responsive signing: Signers on mobile phones can access a parallel version of the document that automatically adapts its formatting to the device’s size and orientation.####• Salesforce data writeback: Signed documents and signer-provided data is automatically written back to Salesforce.####• Clicks-not-code configuration: Our modern UI ensures that your team can deploy quickly without complex integrations across Sales, Service, Financial Services, Experience, and Government Cloud.####• DocuSign eSignature meets compliance standards - including ISO 27001-certified, HIPAA, 21 CFR Part 11, Sarbanes-Oxley and FedRAMP - and provides SOC-audited data center and full encryption for all archived documents.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+(Professional, Enterprise, Unlimited, Developer Edition). Easy set up allows you to start sending documents for electronic signature (eSignature) from Salesforce in minutes, activate all users in one step... get started with a 30-day free trial.","866.219.4318
+Knowledge Base
+https://support.docusign.com","Package Name
+DocuSign Apps Launcher
+Version
+3.3.1 / 3.3.1
+Listed On
+3/7/2010
+Latest Release
+7/8/2021
+Languages
+Dutch,English,French,German,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Traditional Chinese","Automate and connect the entire agreement process with DocuSign. ##DocuSign helps organizations connect and automate how they prepare, sign, act on, and manage agreements. As part of the DocuSign Agreement Cloud, DocuSign offers eSignature: the world’s #1 way to sign electronically on practically any device, from almost anywhere, at any time*. Today, more than 500,000 customers and hundreds of millions of users in over 180 countries use DocuSign to accelerate the process of doing business and to simplify people's lives. ####More than electronic signature. ##We pioneered eSignature and now we’ve created the world’s first agreement cloud. The DocuSign Agreement Cloud is a comprehensive set of more than a dozen applications and 350 integrations for connecting and automating the entire agreement process. With DocuSign, organizations can do business faster with less risk, lower costs, and better experiences for customers, partners, and employees.",https://www.docusign.com/solutions/salesforce,getdfs@docusign.com,"San Francisco, CA, USA"
+Conga Composer | Document Generation & Reporting for Salesforce Made Easy,Starting at $20 USD per user per month,Document Generation,-841,7/7/2021,"Proposals, quotes, doc gen, account plans, contracts, invoices, QBRs & more
+ Create, track and manage on-brand documents automatically. Conga automates tedious business processes and provides actionable insights, so you can focus on driving revenue.####Click ""Get It Now"" for a free 30-day trial, or to update or install Composer!","ACCELERATE YOUR BUSINESS##Get up and running quickly with Composer to reduce document delivery time. Gain additional insights with notifications and document history that increase visibility, speeding up team velocity, processes, and business cycles.
+
+AUTOMATE FOR CONSISTENCY##Automate document creation to eliminate manual tasks using workflows that initiate and complete customer engagements based on any added logic. Standardize what you send to ensure you land on-brand, every time.
+
+FLEXIBLE TO FIT ANY SOLUTION##Pull data from across Salesforce objects, orgs, and external systems - like ERP, Marketing, and HR. This creates customized, personalized, and on time reports and documents with delivery-ease for every scenario.","With Conga Composer, easily create beautiful, accurate digital documents using pre-built or customized templates automatically populated with data from Salesforce. Send consistent and personalized documents that elevate your brand and delight your customers.####Generate any document:##✔ Quotes##✔ Proposals##✔ Account plans##✔ Invoices/receipts##✔ Contracts##✔ Work orders##✔ Reports & charts##✔ Shipping documents##✔ And more!####Into the following formats:##✔ Word##✔ Excel##✔ PowerPoint##✔ PDF##✔ HTML email####Extend efficiency with:##✔ Conga Batch: Create and send documents as a batch on a custom schedule##✔ Conga Trigger: Create documents with no clicks using customizable triggers####Integrations:##✔ Conga Contracts for Salesforce##✔ Conga Grid##✔ Conga Orchestrate##✔ Conga Sign######Compatible with Sales Cloud, Service Cloud, Communities, Portals, Platform, Salesforce1 & Lightning","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+Supports: ##- Office 2016 (Mac 2016) & earlier##- Adobe Acrobat XI & earlier##- Salesforce Clouds: Sales, Service, App, Health, Manufacturing,  Financial Services ##- Salesforce Quote-to-Cash##- Chrome, Firefox, Safari, Microsoft Edge, and IE (v. 11+)","+1 (303) 465-1616, Int'l: see website
+Ëmail
+support@conga.com
+Knowledge Base
+http://support.conga.com/","Package Name
+Conga Composer
+Version
+Wilson Peak / 8.200.0
+Listed On
+11/10/2009
+Latest Release
+7/7/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese","Conga is the world's leading application suite for businesses who are transforming theircommercial operations on Salesforce, digitizing the documents and automating the processes around pricing, quoting, selling, servicing and contracting to accelerate revenue and create a better customer experience.​  As the provider of the #1 paid application on the Salesforce AppExchange, we have more than 15 years of experience increasing the value of Salesforce Clouds.  We're a Salesforce Premier ISV Partner with industry recognized products and support.  Conga provides time & cost saving solutions for more than 12,000 customers, across all industries, around the world.  Conga maintains three global support teams to ensure timely customer service and support for our products:  #Americas: (866) 502-3334 toll free | +1 (303) 465-1616  #EMEA: +44 (0) 203 608 0165  #APAC: +61 2 8417 2399",http://www.conga.com,spt@conga.com,"San Mateo, CA  USA"
+In-App Guidance: Boost Sales User Productivity in Lightning Experience,Free,Admin & Developer Tools,-7,10/15/2019,"Install prompts to increase user adoption of five key Salesforce features.
+ Salesforce asked the Trailblazer Community for a wishlist of In-App Guidance prompts to drive adoption of time-saving features in Lightning Experience. We used the generally available In-App Guidance feature, to create this package of five prompts.","Introduce your users to favorites, list views, the Chatter profile, Help Menu, and how to find their recent items.
+
+Five prompts for the Account (Sales app) home each link to helpful resources.
+
+Edit the prompts to change the Permission or Schedule settings.","In Winter ‘20 Salesforce made In-App Guidance generally available. This package uses that feature to create a prompt package. Kick-start your own Lighting Experience adoption user engagement journey with prompts that gently suggest that users try out features key to working smarter in Lightning Experience. ####As users begin to explore their new workspace, they want actionable, relevant information about productivity-boosting features. What better way to deliver that information than inside the app while they work. ####Install the prompts to use as is, or adjust the Permission and Schedule settings for your org’s Lightning Experience rollout strategy. Prompts are active as soon as you install them. You can’t change the prompt location. But you can use our prompts as a starting point to creating your own on different pages and apps.####Have feedback or ideas for prompts that you’d like to see in future packages? Take the conversation to the * Lightning Now! * group on the Trailblazer Community and use the tag #lightninginappguidance.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+An admin must have Modify All Data or Customize Application permission to manage prompts.##Non-admin users must have the Manage Prompts AND Modify Metadata permissions to manage prompts.##Not Available for: Chatter External and Chatter Free user licenses",,"Package Name
+In-App Guidance: Boost Sales User Productivity in Lightning Experience
+Version
+Winter '20 / 1.1.0
+Listed On
+10/29/2019
+Latest Release
+10/15/2019
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+LinkedIn Sales Navigator for Salesforce,Starting at $103.33 USD per user per month,Sales Intelligence,0,7/1/2021,"Harness the power of LinkedIn Sales Navigator with Salesforce
+ Embed LinkedIn profiles within CRM to provide timely insights on buyers and companies. Requires SALES NAV TEAM or ENTERPRISE EDITION.####Complete Data Validation setup to flag out-of-date contacts. Requires SALES NAV ENTERPRISE EDITION & CRM Sync.","JUNE 2021 APP RELAUNCH - VERSION 3.3##Focused on major redesign of core functionality:##-- Removed Custom Task Record Types##-- Added Data Validation Job Scheduler##-- Rebuilt Guided Setup Experience##-- Sunset non-essential components (when possible)
+
+CONTACT SUPPORT:##For support issues, please visit https://www.linkedin.com/help/sales-navigator/####Please Note: Our application does NOT support SALES NAVIGATOR PROFESSIONAL EDITION. Data Validation is SALES NAVIGATOR ENTERPRISE EDITION ONLY.","ELEVATE YOUR SALESFORCE EXPERIENCE WITH LINKEDIN DATA, INSIGHTS, AND ACTIONS##Without leaving their CRM, sales professionals can leverage Embedded Profiles to search for and view key insights on buyers, stay updated on relevant news and activities, find warm introductions via TeamLink, see recommended leads, and send InMails directly to contacts. Within Lightning, admins are able to customize the interface and create a more immersive experience to fit their team’s needs. Available for both Lightning and Classic. Requires Sales Navigator Team or Enterprise Edition.####KEEP YOUR CRM DATA UP-TO-DATE##Sales managers and professionals can keep CRM data up-to-date automatically by leveraging LinkedIn Data Validation. Pinpoint which contacts are associated with incorrect accounts, and use out-of-the-box reports to understand opportunities at risk (e.g. open opportunities where an associated contact is no longer with that company) as well as potential champions via past customers at new companies (e.g. contacts at closed-won opportunities who are now associated with a new company). Requires Sales Navigator Enterprise Edition and for CRM Sync to be enabled within Sales Navigator.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+REQUIRES SALES NAVIGATOR TEAM or SALES NAVIGATOR ENTERPRISE","Knowledge Base
+https://www.linkedin.com/help/sales-navigator/","Package Name
+SN for SFDC
+Version
+v3.3 / 3.3.0
+Listed On
+6/23/2021
+Latest Release
+7/1/2021
+Languages
+English,French,German,Italian,Portuguese,Spanish",,http://www.linkedin.com/,,"Mountain View, CA"
+Query Studio for Marketing Cloud,Free,Marketing,-32,,"Write and run queries in the Marketing Cloud
+ Query studio allows you to quickly run queries in the Marketing Cloud with a similar experience to SQL Server Studio or MySQL workbench.",,"Query studio allows you to quickly run queries in the Marketing Cloud with a similar experience to SQL Server Studio or MySQL workbench. ####Features: ####Great for one off queries and developing new queries. Write -> Run -> See Result, without leaving the page. ####Users have the option of validating their query against a target data extension. This will cross check for required fields, field lengths, and mismatched field data types. ####CTRL + Enter shortcut to run. ####Considerations:####- "" Select * "" or "" Select table.* "" queries are not supported.##- QueryStudioResults data extension folder will be created in your account to hold temporary data extensions.  These data extensions have data retention set to auto delete after 24 hours. ##- Every Query Studio user will also have a query activity created for them and is used for running one off queries. It will contain 'InteractiveQuery' in the name.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements",,,"Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+"Rollup Helper - The Trusted, Scalable, Roll-Up Engine for Salesforce",Free,Analytics,-417,6/22/2021,"Roll up any information in Salesforce with clicks and not code.
+ With Rollup Helper, you can roll-up any Salesforce® data: Count, sum, max, min, average, percent, lookups, text, formula, and multi-currency roll-ups. Roll-up more data!####Rollup Helper Premium Edition is available standalone or as part of Helper Suite.","Actionable, real-time data for your business process.##-Results can be used in workflow rules, validation rules or formula fields.##-Rollup using a master-detail or lookup relationship including custom objects.##-Rollup all data types to all field types.
+
+Super-charge your org with capabilities that normally require coding.##-Rollup millions of records in Salesforce.##-Rollup Helper will scale with your unique environments.##-Create custom filters using dynamic filter criteria without SOQL knowledge.
+
+Build mission critical reports and trigger intelligent data-driven workflows.##-With cross object rollups and custom filters, rollup data to a centralized object to boost reporting capability.","Top Rollup Helper Use Cases:##-Activity Monitoring Rollups##-Targeted/parent filter functionality##-Asset, Case, and Contact Rollups to Account##-Lookup Rollups##-Account or Multiple Object Hierarchy Rollups##-Rollup through Campaign Member or Contact Role##-Customer Segmentation Criteria Rollups##-Rollups to Aid in Account-Based Marketing Strategy Implementation##-Non-Numeric/Text Rollups for Products Purchased, Campaign Names or Call Notes##-First and Last Rollups##-Custom Object Rollups##-Rollups for Monthly or Year-Over-Year Reporting####Free Edition Features:##-Three rollups##-Real-time and scheduled rollup functionality##-Sum, max, min, average, count rollups##-Checkbox and text rollups##-Create custom filters without SOQL##-Thirty pre-canned date filters##-Support for standard and custom objects##-Advanced currency management##-Seamless integration with existing configurations##-100% Salesforce® native##-Support for Salesforce® LEX (Lightning Experience) User Interface##-Access to our excellent support staff","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements","Ëmail
+support@passagetech.com
+Knowledge Base
+https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009QWe","Package Name
+Rollup Helper
+Version
+Rollup Helper v16.5 / 16.5.0
+Listed On
+6/13/2012
+Latest Release
+6/22/2021
+Languages
+English","Since 2008, Passage Technology has been the trusted provider of easy-to-use native Salesforce apps and high-quality development services, empowering over 27,000 customers with administration and project management tools, as well as custom business solutions. Milestones PM+ and Rollup Helper as our top products, our apps are Lookup Helper and Storage Helper of Helper Suite and, most recently, Data Analysis Helper and Prioritization Helper.####Passage Technology is a registered Salesforce Consulting Partner, an original AppExchange Partner, and an Inc. 5000 company headquartered in Lake Forest, Illinois.",https://www.passagetechnology.com,sales@passagetech.com,"Lake Forest, Illinois, United States"
+"Native Document Generation & E-Signature: PDF, Word, XLS, Email, Reports: S-Docs",Free,Document Generation,-343,7/20/2021,"Create & E-Sign proposals, quotes, contracts and more. 100% Force.com
+ Automate document creation and delivery in minutes with the ONLY solution that runs 100% within your Salesforce cloud. ##Create documents via click, workflow or batch:##✔Quotes##✔Invoices##✔Proposals##✔Statements##✔Account Summaries##✔Contracts##✔Reports","There is no document generation solution that is more secure! • 100% Force.com. • No external/third-party web services • No plug-ins • No downloads • No client installs • Leverages standard Salesforce.com permissions • Data never leaves salesforce cloud•
+
+Supports both standard and custom objects • 1-Click document creation • Event-driven auto-creation • E-signature support • Lightning Ready • salesforce1 and chatter integration • Auto-creates activities and follow-up tasks • Reusable components•
+
+Point-and-click template editor is designed for non-programmers • Seamless UI with salesforce • Leverages salesforce permissions, workflow and sharing model • HTML5 supports all mobile devices •","S-Docs is the smart choice because it's:##✔Easier to Use##✔More Secure##✔More Powerful##✔More Cost Effective####Since S-Docs is 100% native, it runs seamlessly within salesforce and acts like a natural extension of salesforce's familiar user interface. Being 100% native also means your sensitive customer data never leaves the salesforce cloud.####With advanced features like 1-click automation, conditional logic, reusable components, SOQL support, run-time prompts and full REST APIs (to name just a few), S-Docs delivers the most capabilities.####S-DOCS IS THE ONLY DOCUMENT AUTOMATION SOLUTION THAT:##• Is 100% Native##• Leverages salesforce for ALL Config, Admin and Security##• Does NOT send ANY data off the salesforce platform##• Includes powerful features like batch and workflow without add-ons####You can create:##✔Emails##✔Reports##✔Claim Forms##✔Welcome Letters##✔Form Letters####S-Docs is FREE to use with up to 2 templates!####If you're ready for more templates, you'll find S-Docs is more cost effective because you don’t pay twice for infrastructure (not to mention the added time, complexity, security risk, and integration cost).####It’s the smart choice. Contact us for a demo.","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","(800) 519-DOCS /  +1-212-729-8100
+Ëmail
+support@sdocs.com
+Knowledge Base
+https://www.sdocs.com/documentation","Package Name
+SDocs
+Version
+2021 Summer (4.439) / 4.439.0
+Listed On
+6/11/2010
+Latest Release
+7/20/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese","S-Docs Inc is the developer of S-Docs for Salesforce, the only solution that allows Salesforce users to create quotes, contracts, emails, reports and other documents directly on the Salesforce platform without using any third party external services. It's the only 100% Native document generator available for Salesforce.####Native means that S-Docs leverages the world-class force.com platform that is already paid for with existing Salesforce user licenses. Competitors make claims like ""you never leave Salesforce"", but this doesn't hold true for your data. Not only is S-Docs more secure, faster, more feature-rich and easier to administer, but it's also significantly more cost effective. This is the S-Docs difference, and this is why we have experienced such significant growth with companies turning to S-Docs as the smarter choice.####S-Docs is used by thousands of global subscribers from all industries with a multitude of use cases, but they all share one key theme: The need for a powerful yet easy-to-use native solution. We are proud that they have made us the #1 native document generator and put us in the top 1% of all apps on the Salesforce AppExchange.  ####http://www.sdocs.com",http://www.sdocs.com,sales@sdocs.com,"521 Fifth Ave, New York, NY 10175"
+RingLead Field Trip – Discover Unused Fields and Analyze Data Quality,Free,Admin & Developer Tools,-248,5/21/2020,"Reports on standard and custom field usage for insight into data quality
+ Ever wish you could run reports on the fields you have in Salesforce? Take a Field Trip! Analyze the fields of any object, what percentage of records have that field populated, and the overall health of your data.","DISCOVER UNUSED FIELDS##Easily run and save reports to identify which of your fields can be removed to improve the overall health of your Salesforce data.
+
+GENERATE YOUR RINGLEAD DATA QUALITY SCORE##Your RingLead Data Quality Score is computed based on the fill rate and weight of the object's fields. Default weights for your fields are provided by RingLead, but are also fully customizable.
+
+ANALYZE FIELDS ON ANY OBJECT##Go beyond your Leads, Contacts, and Account Objects for a complete audit of your fields.","Ever wish that you could finally achieve that perfect, clutter-free page layout that you’ve been dreaming about? Unpopulated fields in your Salesforce Org cause confusion, skew reports, and make basic admin duties more difficult than they need to be.  ####Field Trip lets you analyze the fields of any object, giving you instant insight into what percentage of your records (or a subset) have that specific field populated. Run reports on the standard and custom fields you have in Salesforce for a better understanding of which field are important to your organization. ####With a simple install, an intuitive user interface, and an easy-to-export report, Field Trip has made analyzing your fields quick and painless. ####Once installed, simply name your trip, select an object (e.g. Accounts) and, optionally add a filter (for record subsets). Then you will receive a report detailing field usage (or lack thereof), available for simple export.","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Field Trip
+Version
+Spring 2020 / 2.7.0
+Listed On
+11/9/2010
+Latest Release
+5/21/2020
+Languages
+English","RingLead offers a complete end-to-end suite of products to clean, protect and enhance company and contact information, leading to improved organizational efficiency, reliable business intelligence, and maximized ROI on CRM and marketing automation investments.####Since 2003 RingLead has helped solve the dirty data problems of large enterprises, Fortune 500 companies and small businesses across the globe.####Our complete focus is ensuring our customers' continued success with our products and, by extension, their CRM and marketing automation initiatives.####RingLead is all about team. We are a group of data-driven marketers, salespeople, customer success experts, engineers, and leaders in data quality, CRM and marketing automation.",http://www.ringlead.com,sales@ringlead.com,
+Permission Helper,Free,IT & Administration,-82,8/18/2021,"Streamline Permissions Management with Easy-To-Use Tools
+ The Permission Helper contains tools to simplify your permissions processes. The current version includes: ##* Profile to Permission Set Converter ##* Permission Analyzer##* Permission Report####View a quick demo: https://youtu.be/m_I6IZiJ90M",#NAME?,*Permission Analyzer (New!) *##Analyze by a permission to view the list of profiles and permission sets that contain it. You can also analyze by user to view a summation of all permissions assigned to a user. View which specific profiles or permission sets contain a permission.  Understand your permissions structure with just a few clicks and keep your permission assignments up-to-date.####*Profile to Permission Set Converter* ##Create permission sets from standard or custom user profiles. The generated permission set includes all permissions from the selected profile and is immediately assignable to one or multiple users. The tool simplifies management of user profile and permissions when Salesforce admins need to upgrade user licenses. Admins can also assign permissions to new users based on an existing profile. Transition from profiles to perm sets easily!,"Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+We recommend to Select “Install for Admins Only”##For non-admin users, you need to have the following permissions enabled. ##   - Customize Application##   - Manage Profiles and Permission Sets##Requires Mydomain enabled.","Knowledge Base
+https://sfdc.co/permissionhelper","Package Name
+Profile2PermSet
+Version
+Permission Helper / 2.28.0
+Listed On
+10/19/2018
+Latest Release
+8/18/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+In-App Guidance Walkthroughs: Getting Started for Sales Users,Free,Admin & Developer Tools,0,7/1/2020,"Test out generally available In-App Guidance with premade walkthroughs.
+ We used the generally available In-App Guidance feature to create this package of four example walkthroughs. Provide your new sales users with interactive training that complements the Lightning Experience for Salesforce Classic Users Trailhead module.","The four walkthroughs cover the basics, navigation, list views, and records.
+
+Each walkthrough provides helpful resources, such as videos.
+
+Edit the schedule, profiles, permission, and status settings. Or, clone the walkthrough to make more changes.","In Summer ‘20, Salesforce made walkthroughs available. This package uses that feature to create example walkthroughs. To see walkthroughs, users need a license from the myTrailhead subscription. For pricing details, contact your Salesforce account executive. See the Start Walkthrough Trial button on the In-App Guidance Setup page to start a 30-day free trial.####Whether you’re transitioning your sales team from Salesforce Classic to Lightning Experience or onboarding users for the first time, this set of walkthroughs helps users identify key features to help them get up and running quickly.####Introduce users to the basics: the Help Menu, profile and personal settings, and favorites##Help users quickly get to the records that matter the most to them with the App Launcher and navigation bar##Guide users through creating, editing, and consuming data from lists##Train users on the most efficient way to work with records####See the Customization Guides section for links to product documentation, including how to clone and customize walkthroughs. Look for a PDF of all the walkthrough copy and tips for customization on this listing page.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+Lightning Experience",,"Package Name
+In-App Guidance Walkthroughs: Getting Started for Sales Users
+Version
+Summer 2020 / 1.0.0
+Listed On
+8/13/2020
+Latest Release
+7/1/2020
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+Salesforce CRM Dashboards,Free,Analytics,-26,6/20/2011,"Great dashboard pack to get you started.
+ Your one stop shop for GREAT example dashboards.  Includes dashboards for Executives, Reps, Sales, Support and more.  Checkout the Details Tab for more information.","Gives you best-practices dashboards and reports for your sales, marketing, and service teams—straight out of the box.
+
+Provides comprehensive insight into organization, team, and individual performance.
+
+Increases the CRM adoption and effectiveness of your sales and service organizations.","With these CRM dashboards, your sales and service teams can stay on top of every deal or case, and close more business on time than ever before. Sales Managers will have more visibility into open opportunities and gain greater pipeline predictability. Dashboards and reports in this package are intended to provide you with a starting point to make reporting easier in your organization. Find out more at https://na1.salesforce.com/help/doc/en/salesforce_dashboard_samples.pdf.## ##The package includes the following dashboards and their source reports:## ##Sales & Marketing Dashboards##·        Marketing Executive Dashboard##·        Sales Executive Dashboard##·        Sales Manager Dashboard##·        Salesperson Dashboard ####Customer Service Dashboards##·        Agent Supervisor Overview Dashboard##·        Service Executive Overview Dashboard##·        Service KPIs Dashboard","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Salesforce.com CRM Dashboards
+Version
+Summer 2011 / 1.0.0
+Listed On
+6/27/2011
+Latest Release
+6/20/2011
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+ZoomInfo Powered by DiscoverOrg,"Starting at $14,995 USD per company per year",Sales Intelligence,-292,8/27/2021,"Accelerate Growth with the Leading Sales & Marketing Intelligence Platform
+ ZoomInfo Powered by DiscoverOrg provides the most accurate source of contact data and intelligence helping sales and marketing teams find, connect with, and sell to the right buyers at the right time with the right message.","With the ZoomInfo Powered by DiscoverOrg app for Salesforce, your sales and marketing teams can find new prospect accounts in your target market and instantly identify decision-makers and other key stakeholders.
+
+Boost connect rates with verified direct-dial phone numbers and email addresses. Easily identify discrepancies between Salesforce and ZoomInfo Powered by DiscoverOrg records in real-time, and manually update data selectively or in bulk.
+
+Uncover emerging opportunities from practical, predictive intelligence and improve and personalize conversations with insights about news, projects, installed technologies, initiatives, company attributes, and personnel changes.","ZoomInfo Powered by DiscoverOrg is the leading global sales and marketing intelligence tool used by over 13,000 of the world’s fastest growing companies to accelerate growth. The company itself has been named a Deloitte Fast 500 company 2 years in a row and an Inc. 5000 fastest-growing company eight times. ####ZoomInfo Powered by DiscoverOrg’s award-winning solutions provide the industry’s largest stream of accurate and actionable company, contact, and contextual buying intelligence that can be used to find, connect with, and sell to target buyers more effectively – all integrated into the leading CRM, SDR, and Marketing Automation Tools in the market. Data is gathered and updated through ZoomInfo Powered by DiscoverOrg’s proprietary combination of technology, tools, and integrations and then verified by an in-house research team – resulting in the highest guaranteed level of accuracy available across B2B sales and marketing data providers.","Salesforce Edition
+Professional, Enterprise, Unlimited
+Other System Requirements
+Salesforce REST API required for automated data Enrichment. REST API access to only required for automated Enrich.","866.904.9666
+Ëmail
+support@zoominfo.com","Package Name
+ZoomInfo
+Version
+ZoomInfo - V1.34 / 1.34.0
+Listed On
+12/14/2019
+Latest Release
+8/27/2021
+Languages
+English","ZoomInfo Powered by DiscoverOrg is the leading global sales and marketing intelligence tool used by over 13,000 of the world’s fastest growing companies to accelerate growth. The company itself has been named a Deloitte Fast 500 company 2 years in a row and an Inc. 5000 fastest-growing company eight times. ####ZoomInfo’s award-winning solutions provide the industry’s largest stream of accurate and actionable company, contact, and contextual buying intelligence that can be used to find, connect with, and sell to target buyers more effectively – all integrated into the leading CRM, SDR, and Marketing Automation Tools in the market. Data is gathered and updated through ZoomInfo’s proprietary combination of technology, tools, and integrations and then verified by an in-house research team – resulting in the highest guaranteed level of accuracy available across B2B sales and marketing data providers",http://www.zoominfo.com,sdr@zoominfo.com,"Vancouver, WA, USA"
+Agile Accelerator,Free,Project Management,-83,2/3/2021,"Agile Development Toolset built by Salesforce
+ For years, Salesforce teams have been using the Salesforce Platform to manage backlogs, sprints, user stories, defects and more. Now you have the ability to leverage the same agile app that Salesforce uses.  For questions visit: www.sfdc.co/AgileSuccess","Agile Project Management: one single application, the Salesforce Platform
+
+Collaboration:  work in context with your peers using Chatter
+
+Leverage Expertise:  tool built by Salesforce Agile teams for Agile Organizations","Salesforce has been recognized multiple times for being the most innovative company in the world. We constantly get asked how do we do it. Two of the biggest ways we stay innovative is our Agile mindset and using our own products. Salesforce has been practicing the Agile process for over six years. At the core of our Agile process is Agile Accelerator. Internally we call it Grand Unification System (GUS). As our single source of truth, it provides us with team visibility throughout the company and helps us quickly collaborate on work. We’ve taken the most popular features in GUS and packaged it up for our customers.####For questions and feature requests please visit our success community here: www.sfdc.co/AgileSuccess","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+Please read our ""Getting Started Guide"" which can be downloaded from our AppExchange listing and visit sfdc.co/AgileSuccess if you have any questions!",,"Package Name
+Salesforce Agile Accelerator
+Version
+Salesforce Agile Accelerator / 1.157.0
+Listed On
+3/31/2015
+Latest Release
+2/3/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Spring '21 Salesforce Community Management Package for Sites with Chatter,Free,Analytics,-34,3/8/2021,"Dashboards, reports and actionable Insights for Salesforce Experience Sites
+ App by Experience Cloud##Latest Release: 03/08/2021####The Community Management package delivers the insights, dashboards, reports, and moderation controls which community managers need to drive adoption, monitor engagement, and build a vibrant site.","Use Insights to view, monitor, and act on site activity. Provided Insights pages: Adoption, Activity, Files, Groups, Moderation, Self-Service, and Topics.
+
+Dashboards provide trends and metrics about your site activity. Provided dashboards: Scorecard, Home, Overview, Activity, Groups, Members, Licenses Content, Custom Recommendations, Moderation, Q&A, Self-Service, Search Activity, and Topics.
+
+Chatter dashboards report on your internal organization’s Chatter usage. Provided dashboards: Overview, Adoption by Department, Files, Groups, Management, Q&A, Topics, and User. You can also report on Chatter edits.","What's new? For Spring ’21, we added a dashboard and four reports related to question post response time. They let you know how long it takes for a question post to be answered and how long it takes for the post to have an answer marked as best. These metrics are helpful for determining when to increase service levels.######Questions? Visit the Trailblazer Community at http://sfdc.co/bA3wEb.","Salesforce Edition
+Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements","1-800-NOSOFTWARE
+Ëmail
+support@salesforce.com","Package Name
+Salesforce Communities Management (for Experience Cloud Sites with Chatter)
+Version
+Spring ’21 / 14.0.0
+Listed On
+7/30/2014
+Latest Release
+3/8/2021
+Languages
+English","Salesforce, the Customer Success Platform and world's #1 CRM, empowers companies to connect with their customers in a whole new way. For more information about Salesforce (NYSE: CRM), visit: www.salesforce.com.####This application is fully supported by Salesforce. If you have questions or need help, please contact customer support.",http://www.salesforce.com,,"San Francisco, California, United States"
+Mailchimp Integration App,Free,Mass Emails,-211,10/19/2020,"Create campaigns, automate your busy work, and get smarter as you grow
+ Millions of people use Mailchimp to reach their customers and grow their business. Sync your Mailchimp subscribers and Salesforce® leads across platforms, so you can view campaign stats, manage your contacts, access Mailchimp's marketing tools, and more.","Manage Mailchimp subscribers from Salesforce® leads, contacts, and audience views
+
+Upload Mailchimp subscribers as Salesforce® leads
+
+View Mailchimp campaign results and subscriber activity history in Salesforce®","Once you install the Mailchimp Integration App, you can:####- Manage Mailchimp subscribers from Salesforce® leads, contacts, and Audiences views##- Upload Mailchimp subscribers as Salesforce® leads##- Sync Mailchimp Audiences to map Salesforce® fields to Mailchimp merge variables##- Sync leads and contacts from Salesforce® to Mailchimp##- Create custom lead, contact, and campaign member queries that run daily or##even hourly##- Manage Mailchimp data storage options in Salesforce®##- See subscriber detail and Mailchimp activity##- View Mailchimp campaign reports and campaign share reports from within##Salesforce®##- Add custom Mailchimp fields and Visualforce pages to the Contact and Lead pages","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+If you have enabled the built-in integration with Salesforce.com® within Mailchimp you may risk adversely high salesforce.com API call volumes when used in conjunction with Mailchimp Integration App. ####Your org will also require API access.","Knowledge Base
+http://kb.mailchimp.com/integrations/salesforce/connect-mailchimp-for-salesforce","Package Name
+Mailchimp Integration App
+Version
+October 14 2020, v1.94 / 1.94.0
+Listed On
+7/10/2013
+Latest Release
+10/19/2020
+Languages
+English","Mailchimp empowers small businesses to do big things by giving them innovative marketing tools that help them grow. Whether you want to get more people to download your app or keep loyal customers coming back, Mailchimp has all the features and integrations you need to become the brand you want to be. ####Create integrated campaigns—we’ve got email, landing pages, automations, social ads, and more—to reach your audience across multiple platforms. Connect your favorite tools to see all your marketing and sales data in one place. Set up automations to make your life easier. Then optimize everything with tools that help you get to know your people and take action on key insights, so you can get a little smarter with every campaign.",http://mailchimp.com,,"Atlanta, GA"
+Duplicate Check for Salesforce: Duplicate Management made easy,Free,Data Cleansing,-237,8/30/2021,"Find duplicate records, prevent duplicates and merge duplicate data
+ The all-in-one solution for deduplication: find and merge duplicates in and across leads, contacts, accounts and all other (custom) objects. Prevent duplicates on manual entry, import and API insert. ####No data transfer - Duplicate Check is 100% native.","Duplicate Check allows you to find duplicate records across two different objects. For example, find Leads that are already Contacts in Salesforce. You don't want to reach out to a new incoming Lead if it's already a Contact, right?
+
+Fuzzy matching - Find duplicate records by applying advanced fuzzy matching methods. Find records with spelling errors and typo's, or company names written in different formats.
+
+Direct Processing - Automatically analyze any incoming record (via API, web-to-lead, import or Marketing integration) with existing records using advanced scenarios. If it's a duplicate, use Direct Processing to automatically merge at point-of-entry.","Duplicate Check for Salesforce is the most downloaded, most complete deduplication app on the AppExchange. Besides being able to run fully automated dedupe jobs, Duplicate Check offers advanced duplicate prevention features and can detect duplicate records everywhere - from manual insert and imports to records created via the Salesforce API.####+Duplicate Check is 100% native. With no data-transfer at any point when finding, merging or preventing duplicates your data is secure.####+The application is quick and easy to use. It is built so that anyone can deal with duplicate records in Salesforce, even if you don't have any experience. Personal onboarding session included.####+Integrate Duplicate Check in your custom processes with DC Apex API, REST API, Apex plugins and Flow Actions. We are the most developer friendly deduplication solution.####+Large Data Volume proof - Our clients like EF Education First, Roche, ACLU and Richemont process millions of records without a sweat.####NOTE: Using Duplicate Check up to 10.000 records with basic functionality is free. Take a look at our various editions at duplicatecheck.com/pricing.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+None.","Ëmail
+support@duplicatecheck.com
+Knowledge Base
+https://support.duplicatecheck.com","Package Name
+Duplicate Check for Salesforce1
+Version
+3.310.1 / 3.310.1
+Listed On
+10/6/2011
+Latest Release
+8/30/2021
+Languages
+Dutch,English,French,German,Spanish",Plauti B.V. is a Dutch company that was founded in 2011. Our mission is to help other companies achieve data happiness. Data happiness can be achieved by making all employees whithin a company feel responsbile for the quality of their data. The tools Plauti created are easy-to-use and created in such a way that everybody is able to work with them.,https://www.plauti.com/?utm_source=appexchange&utm_campaign=appexchange&utm_content=company_page,info@plauti.com,"Arnhem, The Netherlands"
+"dataloader.io, the #1 Data Loader for Salesforce",Free,Integration,-574,,"100% cloud solution to quickly import, export and delete data in Salesforce
+ Use the most popular data loader for Salesforce to quickly and securely import, export and delete unlimited amounts of data for your enterprise. Get started quickly with our simple, 100% cloud solution.","Login with Salesforce: Use your existing Salesforce credentials to log into dataloader.io without the hassle of downloading an application.
+
+Data mapping made easy: Auto-mapping, keyboard shortcuts and search filters help you find and map fields quickly.
+
+Avoid redundant work: Pull related objects such as Account ID’s through a single pull, removing the need to pull multiple datasets and re-associate them in Excel.","What's New!##●  Scheduling: Automate task imports and exports on a hourly, daily, weekly or monthly basis##●  DropBox, Box, FTP and sFTP support: Import and export data from multiple file sources.##●  Canvas UI####dataloader.io is powered by Anypoint Platform, MuleSoft's solution for connecting APIs, applications, data and devices. Need to integrate your ERP, marketing automation or sales process management app to Salesforce? Build, deploy and manage your APIs and integrations in the cloud, on-premises or hybrid using Anypoint Platform. Learn more at http://bit.ly/1E7TL3W.####Start using dataloader.io by visiting our website at https://dataloader.io.####Happy data loading!","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+In order to use dataloader.io you must have Salesforce credentials:##* User Name##* Password####The following browsers are supported:##* MS Internet Explorer 8x and up##* Firefox 4x and up##* Google Chrome 10x and up##* Apple Safari 5x and up","Ëmail
+support@dataloader.io
+Knowledge Base
+https://getsatisfaction.com/dataloaderio",,"MuleSoft makes it easy to connect the world's applications, data, and devices. With our market-leading Anypoint Platform™, companies are building application networks to fundamentally change the pace of innovation. MuleSoft’s API-led approach to connectivity gives companies new ways to reach their customers, employees, and partners. Organizations in more than 60 countries, from emerging companies to Global 500 corporations, use MuleSoft to transform their businesses.",https://www.mulesoft.com,info@mulesoft.com,"San Francisco, CA, USA"
+In-App Guidance: Boost Service User Productivity in Lightning Experience,Free,Admin & Developer Tools,0,1/17/2020,"Install prompts to increase user adoption of five key Salesforce features.
+ Salesforce asked the Trailblazer Community for a wishlist of In-App Guidance prompts to drive adoption of the most time-saving features in Lightning Experience. This package includes prompts for the top-five requests.","Introduce your users to favorites, list views, the Chatter profile, Help Menu, and how to find their recent items.
+
+One set of five prompts for Case (Service Console app) homes each link to helpful resources.
+
+Edit the prompts to change the Permission or Schedule settings.","Kick-start your own Lightning Experience adoption user engagement journey with prompts that gently suggest that users try out features key to working smarter in Lightning Experience. ####As users begin to explore their new workspace, they want actionable, relevant information about productivity-boosting features. What better way to deliver that information than inside the app while they work. ####Install the prompts to use as is, or adjust the Permission and Schedule settings for your org’s Lightning Experience rollout strategy. Prompts are active as soon as you install them. You can’t change the prompt location. But you can use our prompts as a starting point to creating your own on different pages and apps.####Have feedback or ideas for prompts that you’d like to see in future packages? Take the conversation to the * Lightning Now! * group on the Trailblazer Community and use the tag #lightninginappguidance.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance, Essentials
+Other System Requirements
+An admin must have Modify All Data or Customize Application permission to manage prompts.####Non-admin users must have the Manage Prompts AND Modify Metadata permissions to manage prompts.",,"Package Name
+In-App Guidance: Boost Service User Productivity in Lightning Experience
+Version
+Spring 2020 / 1.1.0
+Listed On
+1/17/2020
+Latest Release
+1/17/2020
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+NICE inContact CXone Omnichannel CTI / IVR / ACD / Dialer / Contact Center,$20 USD per user per month,Telephony,-98,9/10/2021,"NICE inContact CXone Agent for Salesforce—Personalized Customer Experience
+ NICE inContact CXone Agent for Salesforce provides a call center solution in the cloud unifying the agent experience within Sales/Service Cloud. Increase agent efficiency, while improving customer experience with the CTI leader. Install in under 10 mins!","Improved CX: Save at least 2 minutes per call by synchronizing contact center and CRM information. Leverage customer data to optimize interaction routing. Improve CSAT scores by personalizing the omnichannel customer experience. Easy channel elevation.
+
+Handle 10% more calls: Integrate contact center controls within Salesforce.  Automatically create and map contact information to objects, e.g., cases, contacts, accounts and tasks. Skills-based routing directs digital channels to the best-suited agent.
+
+Reduced training costs: No custom development required for this pre-built integration. Eliminate toggling between multiple applications & simplify the agent experience. Integrated WEM capabilities let agents manage schedules & performance in Salesforce.","Personalize Interactions with Omnichannel Context: Customers want agents to know who they are and what they want without long explanations. NICE inContact CXone Agent for Salesforce gives your agents a 360-degree view of the customer, including insights into interactions across all channels. ####Increase Agent Efficiency: When agents have too many screens & applications to juggle, customer service suffers. Our integration streamlines omnichannel contact handling while improving agent efficiency. Use customer data—caller ID, IVR input, customer number, etc.—or CXone skills-based routing to connect customers to the ideal agent or queue. Integrated WEM capabilities empower agents to manage their schedules and performance directly in Salesforce.####Deploy & Maintain with Ease: Integrations can be difficult and costly to develop, deploy & maintain. CXone Agent for Salesforce lets you deploy an integrated contact center solution in minutes and download updates as needed.####With the industry’s most unified, multichannel cloud platform, NICE inContact is affordable, easy to manage, fast and flexible to implement. We provide solutions for: ACD, IVR, Dialer, CTI, WEM (QM/WFM), & Analytics.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+Browsers##--Chrome (latest)##--Firefox (latest)##--Safari (latest)##--MS Edge (latest)########NICE inContact ACD account","1.866.965.7227
+Ëmail
+customerservice@niceincontact.com","Package Name
+NICE inContact CXone Agent for Salesforce
+Version
+Summer '21 / 18.2.0
+Listed On
+1/9/2014
+Latest Release
+9/10/2021
+Languages
+English,French,German,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish","NICE CXone, the contact center platform that integrates into Salesforce, is part of NICE- a global provider of both cloud and on-premises enterprise software solutions that empower better customer experience (CX) through analytics, workforce engagement, contact center software and more. NICE also helps organizations of all sizes ensure compliance and combat fraud. NICE has over 25,000 customers in more than 150 countries, including over 85 of the Fortune 100 companies.",http://www.niceincontact.com,bryston.kehl@niceincontact.com,"Salt Lake City, Utah"
+Adobe Sign Trusted 5-Star Rated eSignatures from Salesforce customers since 2006,Starting at $34 USD per user per month,Contract Management,-3193,9/7/2021,"Make top-rated Adobe Sign your e-signature solution on Salesforce
+ Integrate Adobe Sign with Salesforce to create 100% digital workflows in minutes. Create, send, sign, track and file agreements quickly & securely right in Salesforce. Download the  plug-in, then purchase Adobe Sign or start a free 30-day trial.","Easily and quickly create, send, sign, track and file agreements without leaving Salesforce with our Lightning-Ready integration built on the Salesforce Customer 360 platform. Works with Sales Cloud, Community Cloud, Service Cloud, and more.
+
+Improve data accuracy, reduce errors, and enhance the ability to audit contracts and agreements via merge mapping and data mapping--no coding required. By automating end-to-end approval processes, you'll improve compliance, reduce risk, and save money.
+
+Digitize more workflows more quickly. Deliver great signing experiences for customers, partners, Salesforce admins, and employees who send documents for signing or approval and need to know agreement status. It's quick to set up and easy to use.","A COMPLETE E-SIGNATURE SOLUTION FOR SALESFORCE##•	Adobe Sign boosts  productivity, reduces costs, improves legal compliance and can be deployed in minutes.##•	Close deals faster on any device by moving to fully automated proposal, quote,##and contract processes##•	Reduce your business and legal risk with more accurate proposal, quote, and contract generation##•	Improve signing experiences for everyone, including your own teams##  ·	Easily customize, no back end coding required##  ·	Merge Salesforce data into documents, map signer data back to Salesforce ##  ·	Track contracts in real time; get Chatter updates when deals are viewed and signed##  ·	Automatically store and file signed documents directly in Salesforce ##  ·     Easily configure Adobe Sign in workflows, including with Process Builder##  ·	Work and close deals in any Salesforce-supported language##  ·	Integrate seamlessly with CPQ, CLM, and document generation apps####Leading organizations worldwide use Adobe Sign for fast, secure, and mobile e-signatures. Get a free 30-day trial at https://acrobat.adobe.com/us/en/documentcloud/integrations/salesforce/free-trial.html","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements.####No account or license required for e-signers -- accounts / licenses only required for senders.","800-833-6687
+Knowledge Base
+https://helpx.adobe.com/support/sign.html","Package Name
+Adobe Sign
+Version
+v23.14 / 23.14.0
+Listed On
+10/6/2006
+Latest Release
+9/7/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese","Relied on by Facebook, Google, Dell, Pandora, Twitter, Qualcomm, Taleo, British Telecom, Time Warner and many other leading companies in the Fortune 500, Adobe Sign is the electronic signature solution of choice among both users and reviewers. These web-based solutions make it easy for sales, legal, procurement, HR, and other professionals to securely track, sign and store documents. From Adobe, the established leader in digital, cross-platform document creation, tracking and management.",https://acrobat.adobe.com/us/en/documentcloud/integrations/salesforce.html,,"San Jose, CA, United States"
+Zoom,Free,Chat & Web Conferencing,-43,7/25/2021,"Close business faster with video, voice, and webinars
+ Use Zoom’s native integration with Salesforce to seamlessly meet with your customers, efficiently manage your sales calls, and scale webinars","Seamlessly start a Zoom Meeting and track it in your Salesforce activity history.
+
+Easily manage your inbound and outbound sales calls and sync call notes automatically when using the Zoom Phone soft dialer.
+
+Automate syncing Zoom Webinar attendee information and webinar participation to contacts.","Meet Happy using Zoom’s native integration with Salesforce! Supercharge your productivity by leveraging Zoom Meetings, Zoom Phone, or Zoom Webinars from your Salesforce environment.####With a few clicks, you can start a Zoom Meeting with your contacts and record your conversation in your Salesforce activity history. Schedule or start a Zoom Webinar, add leads and contacts as registrants and track participation as a part of that contacts details. Additionally, use the Zoom Phone dialer to start and manage your Zoom Phone calls, automatically log call activity, and pop contacts directly from the Salesforce interface into your Zoom Phone.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","+1.888.799.9666 ext 2
+Ëmail
+support@zoom.us
+Knowledge Base
+https://support.zoom.us","Package Name
+Zoom
+Version
+zoom app / 3.17.0
+Listed On
+12/20/2016
+Latest Release
+7/26/2021
+Languages
+English","Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, collaboration, chat, and webinars across mobile devices, desktops, telephones, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is headquartered in San Jose, California.",https://www.zoom.us,info@zoom.us,"San Jose, CA"
+List Editor,Free,Admin & Developer Tools,0,7/1/2021,"Bulk Update Records on the List !!
+ You can add and edit records on the list at once with this component.##This greatly reduces the waiting time for input and confirmation process when you continuously input data.","You can install the component wherever you want, Application Pages/Record Pages in Internal Org and Standard Pages/Object Pages in Community.
+
+Responsive design for even mobile use.##Provides a comfortable user experience on the community.
+
+Branding feature by individual components is available, such as Text Color, Background Color, and Color of Even-number Rows.","Available on Internal Org and Community !##Responsive design for comfortable use on mobile.##Now you can do more branding and advanced record search for multiple text fields, unlike the standard list view!##You can save waiting time for input and confirmation process by creating, copying and deleting records at once.######◤◢◤◢◤◢ リストに表示されているレコードを一括編集！！ ◣◥◣◥◣◥##リストに表示されているレコードを一括で追加・編集ができるコンポーネントです。##入力の待機時間や続けて入力する際の確認工数を大幅に削減できます。####組織内のAppページ/レコードページ、コミュニティ内の標準ページ/オブジェクトページどこでも設置可能。####レスポンシブデザインでモバイルでの利用も可能。##コミュニティ上での快適な操作性を提供。######テキストカラー、背景色、テーブルの偶数行のカラー変更など、コンポーネント個別でブランディングが可能。####組織内とコミュニティに設置可能！##レスポシブデザインで、コミュニティのモバイル操作も快適に行えます。##標準のリストビューでは難しかった、ブランディングや複数のテキスト項目に対する高度なレコード検索などが実現出来ます！！##新規作成・レコードのコピー・削除を一括で行い、入力の待機時間や工数を削減できます。","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+List Editor
+Version
+Managed / 1.6.0
+Listed On
+8/6/2021
+Latest Release
+7/2/2021
+Languages
+Japanese","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+Mass Delete,Free,Admin & Developer Tools,-69,1/10/2019,"Mass delete standard fields from a list view.
+ A set of custom list buttons that you can add to your standard list views or related lists. Users can select any number of records and delete all of them with a single click.","Great tool for bulk deletion!
+
+Select any number of records and delete all of them with a single click.","Contained in this package are 10 custom list buttons. Simply add them to the appropriate list view or related list on a page layout. Buttons are available for the following standard objects:  campaigns, leads, accounts, contacts, opportunities, cases, contracts, solutions, products, and assets. Instructions for adding custom list buttons to list views and related lists are included in a document folder named ""Mass Delete.""","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+API Access",,"Package Name
+Lightning Mass Delete
+Version
+Lightning Mass Delete / 1.0.0
+Listed On
+3/19/2007
+Latest Release
+1/10/2019
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Multi-Factor Authentication Dashboard,Free,Dashboards & Reports,-5,9/29/2020,"Monitor your multi-factor authentication (MFA) implementation
+ A comprehensive dashboard for monitoring, auditing, and reporting on multi-factor authentication (MFA) adoption and usage in your Salesforce org.",,"A comprehensive dashboard for monitoring and reporting on multi-factor authentication (MFA) adoption and usage in your Salesforce org.####This package includes the following features: ####* MFA view: See who has registered identity verification methods, and perform actions like disconnecting methods and generating temporary verification codes.##* Dashboard and Reports: Audit verification activities in your org, and track verification method registration progress.##* MFA Registration Email Template: Integrate this template with the Mass User Email tool to create an MFA registration campaign for your rollout.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+MFA Dashboard
+Version
+Winter '21 / 1.7.0
+Listed On
+10/11/2016
+Latest Release
+9/29/2020
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Scan to Salesforce/Pardot – Business card scanner for iOS & Android,Free,Productivity,-67,8/5/2021,"99% accurate OCR scanning, no more manual entry, rich Lead data, and free!
+ A simply powerful app your organization and teams will love. Quick setup for admin. iOS and Android app for your users. Scan up to 4 business cards at once. Validate data. Zap new Leads, Contacts, and Accounts to Salesforce. Trigger a Pardot campaign.","Give Your Sales Team More Time to Sell####‣ Cut lead time and end manual entry##‣ Scan up to 4 cards at once, send Leads/Contacts/Accounts to SFDC in a few taps##‣ 2 hrs/month saved by average user vs. manual input
+
+Store Vital Data to Empower Your Org’s Marketing####‣ Name, company, email, tel, etc. – 1st-party data for Marketing to take action##‣ Validate and split addresses based on Google Maps API##‣ Quick package install in your org
+
+Top-class Data Accuracy, Security, and Support####‣ Free OCR scanning with 99% accuracy##‣ TLS protection, your data is all yours##‣ Customer support, online guidance – we’re with you all the way","• Need a simple business card scanner app for Salesforce? You found it.####• An app your org & teams can use with minimal onboarding? Here it is.####• Data security from a reliable software provider? We’ve been at this since 2007 and we’re publicly traded.####• Tight budget? It’s 100% free, all of it.####--##“I can now upload business card data into Salesforce in a fraction of the time I used to spend,” says Teddy Elsenbaumer of Axia Payments##--####Scan to Salesforce/Pardot makes your work life easier. Users scan quickly and accurately. Transfer Leads & Contacts in a few taps. Get a host of added features.####1. Install the package in your SFDC org.##2. Roll it out and have users download the mobile app.##3. In a few minutes, they’ll be scanning.####Main features:####• Scan up to 4 cards at once##• Scan saved images of cards in your phone##• Validate & separate addresses##• Batch apply field settings##• Send Leads & Contacts to SFDC, 1 at a time or in batches##• TLS security for data transmission##• Save card images (front and back)##• Keep cards on your device and secure it with biometric authentication####And if you need a hand, our support’s here for you. We’re real people. :)","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements","Knowledge Base
+https://scantosalesforce.zendesk.com/hc/en-us","Package Name
+Scan_to_Salesforce
+Version
+20210803-1600 / 1.50.0
+Listed On
+11/26/2018
+Latest Release
+8/5/2021
+Languages
+English,Japanese","Since 2007, Sansan, Inc. has been a pioneer in business card-based contact management solutions. The company develops proprietary image recognition technology and deploys it across a suite of cloud-based products. Its namesake Sansan B2B platform has 7,000+ corporate customers worldwide, while its individual user app Eight boasts the largest business social network in Japan, with 3 million users.####Scan to Salesforce is a streamlined Salesforce integration designed specifically for the global market. The app’s global team is laser-focused on helping teams work more efficiently, freeing up time to focus on what matters.",https://www.corp-sansan.com,,"5-52-2 Jingumae, Shibuya-ku, Tokyo, Japan"
+Field Dumper - Extract Data Model to Excel,Free,Admin & Developer Tools,-81,3/30/2020,"Reduce your clicks, save some time - dump your data model to Excel!
+ Produce an Excel document that lists out your data model - showing field level information for your Salesforce objects.  Supports extract of multiple custom and standard objects to a single workbook.","** NEW 2020 - PRO VERSION##Check out 'Field Dump Pro', the big brother version of this app.##It extracts more metadata including the Description field and has many enhancements and additions.##Available for free 15 day trial.  [see Link below] **
+
+Select one or more custom or standard object to extract.  An Excel spreadsheet is generated.  Each object is presented on a separate Excel tab in the generated workbook.  Field information is shown as a row in the spreadsheet.
+
+The following field level information is listed: Name, API Name, Type (text, datetime, lookup etc), Formula Text, Help Text, Size and more.####Great for easy review, analysis, audit, comparison and sharing offline.","This simple app completes an export of field definitions into an Excel spreadsheet.##-The app is FREE!##-One spreadsheet can contain a complete object / field extract of your org.##-Multiple objects can be exported at the same time.##-Each object and its fields are presented on a separate spreadsheet tab.##-Caters for both Custom and Standard Objects.##-Extracts a range of useful paramaters for Custom and Standard Fields.##-It is fully functional - it is not locked, limited or restricted##-Fully security reviewed by Salesforce####Benefits:##FieldDump Provides an extract that:##-Saves time and grey hair - manually compiling, navigating or reviewing directly inside Salesforce is not quick, simple or straightforward.##-Can be used for easy review and sharing with others outside of Salesforce.##-Helpful tool to help with common (and not-so common) Admin and Developer Tasks:##--Schema Review and sharing##--Provide information for audit, design review and documentation##--Is a useful snapshot in time##--Scan formulas easily when making changes to identify dependencies##--Complete Cross object field comparisons##--Use output to compare two different orgs##--Review Picklist values","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Ëmail
+supportfielddump@p0p.co.uk
+Knowledge Base
+https://www.p0p.co.uk/fielddump","Package Name
+FieldDump
+Version
+FDApr2020 / 1.41.0
+Listed On
+11/22/2017
+Latest Release
+3/30/2020
+Languages
+English",,https://p0p.co.uk,admin@p0p.co.uk,UK
+Recruiting App,Free,Human Resources,-13,1/22/2019,"Recruiting
+ Recruiting for AppExchange provides a basic framework for tracking open jobs and candidate information, including work experience, preferences, and comments from interviewers.","Tracks internal requests for headcount as they move through the approval process
+
+Analyzes candidate demographics to identify new-hire recruiting patterns
+
+Monitors the number of applicants for each open position and the status of each of those applicants","From the posting of a new position through the interviews aimed at filling it, Recruiting lets you track your company’s job postings on employment websites and evaluate job applications. It gives you a single location from which to manage the scheduling of interviews, and you’ll be able to easily see what kind of progress you’re making toward filling a particular position. ####Recruiting gives hiring managers and recruiters at small to medium-sized companies one place they can go to monitor the candidate pipeline and see listings of positions and candidates. By deploying it, your company can extend its salesforce.com solution to gather measurable data to better target its recruiting efforts.","Salesforce Edition
+Enterprise, Unlimited, Force.com, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Recruiting app
+Version
+Spring 2019 / 1.4.0
+Listed On
+1/8/2006
+Latest Release
+1/22/2019
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+CMS Content Type Manager,Free,Productivity,-10,6/14/2021,"Manage custom CMS content types tailored to your needs in a breeze!
+ The CMS Content Type Manager gives you a convenient point-and-click way to manage all your content types right inside Lightning Experience.","Manage your CMS content types declaratively
+
+Quickly clone, modify and test a content type before using it in production
+
+⭐   NEW ⭐ : Edit your existing custom content types!","Salesforce CMS (Content Management System) operates on the concept of content types, or a templated block of content with common metadata. Salesforce provides a default News content type, and Salesforce customers can create their own custom content types to model the web content they are creating. Content type creation is done programmatically, using the Metadata API.####The CMS Content Type Manager allows you to delete, edit, create and clone custom CMS content types through an intuitive graphical UI based in Salesforce Lightning Experience.####Guidance about CMS content types and learning resources are embedded right on the pages you use to create content types, alongside handy links to CMS documentation and other content.","Salesforce Edition
+Enterprise, Unlimited, Developer, Performance, Essentials
+Other System Requirements
+Salesforce Content Management System (CMS)",,"Package Name
+CMS Content Type Manager
+Version
+Summer 2021 / 1.3.0
+Listed On
+4/14/2020
+Latest Release
+6/14/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+Milestones PM+ Free Edition - Customizable Project Management,Free,Project Management,-40,9/8/2021,"Cross-industry, native, project and process management for Salesforce
+ Highly customizable, 100% native project management app. Track progress and status of Programs, Projects, Milestones, Tasks. Complete org access, unlimited users, for all Salesforce Editions – download it free!","Customizable Project Management##Milestones PM+ is a 100% Salesforce native project management tool. Custom settings easily give you total control of Programs, Projects, Milestones, Tasks, and reports – right within your company's CRM.
+
+Automatic Project Creation from Templates##Simplify project management, eliminate repetitive manual processes. Automatically create projects in Salesforce by importing a template or using a copy-and-paste trigger from any object (e.g. opportunity).
+
+Free Basic Project Management for All!##Complete org access for unlimited users of all Salesforce Editions, including Gantt charts and Salesforce mobile app, optimized to work on-the-go. Easy customization for unique use cases.","Has COVID-19 forced your employees to work remotely? Milestones PM+ can help the transition from in-office to at-home.##•Visibility to productivity with Time Tracking##•Roadmap planning to explore alternatives for standard operations####Passage Technology partnered with Salesforce in 2012 to provide a managed, supported version of Milestones PM (Salesforce Labs app) and have continued to add features and functionality to the package. Milestones PM+ is a Salesforce project management app that supports any business model or project type you may have.####Free features:##•Create project templates for various project types##•Program, Project, and Milestone level Gantt charts##•Project calendar##•At-a-glance summary view of multiple Projects##•Dependencies and scheduling of Milestones and Tasks##•Automatic date shift cascading##•Project configuration button####Additional premium features:##•Interactive Gantt Chart##•Manage project plan page##•Salesforce event and task sync##•Resource assignment solution##•Time tracking on any object##•Alerts/Notifications##•Project creation button##•Advanced project templates##•Milestone & task communication templates##•Prioritized support response time","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements","Ëmail
+support@passagetech.com
+Knowledge Base
+https://www.passagetechnology.com/milestones-pm-plus-training","Package Name
+Milestones PM Plus
+Version
+Milestones PM+ v11.8 / 11.8.0
+Listed On
+7/16/2012
+Latest Release
+9/8/2021
+Languages
+English","Since 2008, Passage Technology has been the trusted provider of easy-to-use native Salesforce apps and high-quality development services, empowering over 27,000 customers with administration and project management tools, as well as custom business solutions. Milestones PM+ and Rollup Helper as our top products, our apps are Lookup Helper and Storage Helper of Helper Suite and, most recently, Data Analysis Helper and Prioritization Helper.####Passage Technology is a registered Salesforce Consulting Partner, an original AppExchange Partner, and an Inc. 5000 company headquartered in Lake Forest, Illinois.",https://www.passagetechnology.com,sales@passagetech.com,"Lake Forest, Illinois, United States"
+Magic Mover for Notes And Attachments to Lightning Experience,Free,Admin & Developer Tools,-238,11/20/2018,"Get ready for Lightning Experience by migrating your attachments and notes
+ Install this app to do bulk conversions of attachments to Salesforce Files, and classic notes to enhanced notes.  Before you install this package, please check out the User Guide, as it contains important installation instructions.","Convert attachments to files because files are optimized for Lightning Experience and provide additional capabilities beyond attachments, including the ability to relate files to multiple records, track multiple versions, and view file previews.
+
+Convert classic notes to enhanced notes, which are optimized for Lightning Experience and provide additional capabilities beyond classic notes, such as the ability to relate a note to multiple records, and track multiple versions
+
+If you have comments or feedback, please reach out to us in this Success Community Group: https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A000000LgpS","This package includes 3 tools: ####* Admins use the Attachments to Files tool to do bulk conversion of all the attachments in an org.##* Admins use the Notes Conversion tool to do bulk conversion of all the classic notes in an org.##* Admins use the Update Page Layouts tools to update layouts to use the new related lists exclusively.######Conversion of attachments and notes is supported for custom objects and the following standard objects: Account, Asset, Campaign, Case, Contact, Contract, Lead, Opportunity, Product, Quote, and Solution.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Magic Mover for Notes and Attachments
+Version
+V415 / 4.15.0
+Listed On
+7/10/2017
+Latest Release
+11/20/2018
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Mass Edit + Mass Update + Mass Delete,Free,Admin & Developer Tools,-195,10/3/2017,"Standard and Custom Objects
+ 1: Mass Update + Mass Edit + Mass Delete Leads, Accounts, Contacts,  Opportunities records from the List view, Search View or Related Lists.####2: Extend Mass Edit + Update + Delete to work with your Custom Objects and Custom Fields.","Search and Mass Edit/Update/Delete multiple leads, accounts, contacts, opportunities and custom objects.","3: Post Install Setup Instructions:  ##Step  1: Add Mass Update, Mass Edit and Mass Delete  buttons  to  Leads, Accounts, Contacts and Opportunities list view: ##Goto Setup | Customize |  Leads/Accounts/Contacts/Opportunities  | Search Layouts | List View | Edit the view | Add Buttons. ####4: Customization Instructions:  ##Extend Mass Edit/Update to work with your custom objects by creating your own ""Mass Edit"" and ""Mass Update"" list view buttons. Reuse the code behind our Mass Edit/Update buttons.####Step 1: Goto Setup | Leads/Contacts/Accounts/Opportunities | Button and links | Goto Mass Edit or Mass Update button and copy our code.####Step 2: Goto your Custom Object | Create a Mass Edit/Update Button (List view & on click javascript type) and paste our code.####Step 3: Update the code to work with your custom objects/custom field.####5: Support and Feature Request: Please post your support questions and feature requests: https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oYD","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Knowledge Base
+https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oYD","Package Name
+ActionHub
+Version
+ActionHub3.3 / 3.3.0
+Listed On
+1/30/2011
+Latest Release
+10/3/2017
+Languages
+English",,http://www.VersatileCapitalist.com,sales@versatilecapitalist.com,"Vancouver, BC, Canada"
+Amazon Connect CTI Adapter: CTI | Contact Center | IVR | ACD | Call Recording,Free,Telephony,-35,8/26/2021,"Bring the Power of Intelligent CTI to Salesforce Service Cloud
+ The newly updated Amazon Connect CTI Adapter v5 makes it easy to use your Amazon Connect contact center with Salesforce to deliver engaging service with lower cost at any scale. Amazon Connect is cloud-based, self-service, and can be set up in minutes.","Setting up Amazon Connect is easy. With only a few clicks in the AWS Management Console, agents can take calls within minutes. The drag and drop Contact Flow Editor allows you to create effective and efficient customer interactions without any coding.
+
+There is no infrastructure to deploy or manage, so you can scale your Amazon Connect contact center up or down, onboarding up to tens of thousands of agents in response to business cycles.
+
+Amazon Connect runs on AWS proven infrastructure operating in 77 Availability Zones within 24 geographic regions, making it more highly available, fault tolerant and scalable than if a contact center solution was run from a single data center.","App by Amazon Web Services ####As an on-demand service, you pay for Amazon Connect usage by the minute with no long-term commitments or upfront charges. There is no minimum monthly fee. You are charged based on the number of minutes you use Amazon Connect to engage with your end customers, at the specified per minute rate. Pricing is not based on capacity, agent seats, or maintenance.####The integration of Amazon Connect and Salesforce Service Cloud combines the technology that powers Amazon.com’s global contact centers with the world’s #1 CRM platform.  The built-in joint capabilities of Amazon Connect and Salesforce Service Cloud provide everything you need to build a complete, personalized experience through a single integration.  Amazon Web Services and Salesforce provide scale and a pace of innovation to help you grow and evolve your contact center solution with your business’ and your customers’ needs.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Knowledge Base
+https://aws.amazon.com/documentation/connect/","Package Name
+Amazon Connect - Universal Package
+Version
+August 2021 / 5.16.0
+Listed On
+8/24/2017
+Latest Release
+8/26/2021
+Languages
+English,French,German,Italian,Japanese,Korean,Portuguese,Simplified Chinese,Spanish,Traditional Chinese","For over 12 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 125 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 55 Availability Zones (AZs) within 18 geographic regions and one Local Region around the world, spanning the U.S., Australia, Brazil, Canada, China, France, Germany, India, Ireland, Japan, Korea, Singapore, and the UK. AWS services are trusted by millions of active customers around the world—including the fastest-growing startups, largest enterprises, and leading government agencies—to power their infrastructure, make them more agile, and lower costs. To learn more about AWS, visit aws.amazon.com.",https://aws.amazon.com,,"Seattle, Washington"
+Graphics Pack,Free,Admin & Developer Tools,-64,10/3/2016,"Graphics for Image Formulas, Tabs and Visualforce pages
+ 'Graphics Pack' contains hundreds of images / icons that can be used in salesforce applications for tabs, image formulas, and Visualforce pages","Additional graphics for image formulas
+
+Additional graphics for tabs
+
+Additional graphics for Visualforce pages","Graphics pack contains images / icons in sizes of 16x16 and 32x32 pixels.####1) The 32x32 pixel images can be used for tabs and in Visualforce pages##2) The 16x16 pixel images can be used for image formula fields and in Visualforce pages####Image / icon examples include animals, sports, finance, vacation, monsters, robots, Halloween and desktop icons.####Have a look at ""View Screenshots"" to see examples of images being used in image formulas and some of the other graphics available for use.####This package would have not been possible without the images and work from -####FamFamFam - http://www.famfamfam.com/##IconShock - http://www.iconshock.com/##Tango Desktop Project - http://tango.freedesktop.org/Tango_Desktop_Project##VisualPharm - http://www.visualpharm.com/##Fatcow - http://www.fatcow.com/","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Graphics Pack
+Version
+Winter '17 / 1.4.0
+Listed On
+6/13/2011
+Latest Release
+10/4/2016
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+CloudAnswers Report Sender,Free,Admin & Developer Tools,-39,5/7/2021,"Schedule unlimited Salesforce reports to be emailed to anyone
+ Report Sender is the go-to application to download and share Salesforce reports with SF and non-SF users.##Combine rich text, customized design, and reports with data from Salesforce. Whether you want to generate mass reports or a single report to share.","✔ Share reports internally and externally, also to non-salesforce users.
+
+✔ Download the reports in CSV format and send it as a customize email message.
+
+✔ Schedule reports daily, weekly, monthly. You choose the schedule.","Having problems sending data to top management, distributors, operations, partners, clients, or any other list of key recipients outside of Salesforce? Frustrated with the Lightning report subscriptions?## ##Report Sender is a 100% free application that allows you to select any of your Salesforce reports to be sent as a CSV file to internal and an external email address on a regular schedule. ##Reduce the number of reports and maintenance requirements associated with distributing the same or similar reports to hundreds of different recipients.####We take your security seriously!##Report Sender uses native Salesforce to send the reports so your data never hits our servers. The reports are sent using the visibility of the user that scheduled them, so you know exactly what data the reports will contain.#### ##Install it now and start sending reports in minutes. Just choose any existing Salesforce report, set your schedule, define the email content, test it, and you're done.## ##Simplify and accelerate business processes.####Looking for more options?##Check the Report Sender Plus ##https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvspEAA","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Ëmail
+reportsender@cloudanswers.com
+Knowledge Base
+https://help.cloudanswers.com/en/collections/1885035-report-sender?utm_source=appexchange&amp;utm_medium=RS_app_page&amp;utm_campaign=RS&amp;utm_content=knowledge_base1","Package Name
+CloudAnswers Report Sender
+Version
+May 2021 v1.61 / 1.61.0
+Listed On
+3/1/2019
+Latest Release
+5/7/2021
+Languages
+English","We combine decades of Salesforce experience with Java, Python, Node, and other technologies to give you innovative and reliable applications to run your business. Check out all of our apps on the AppExchange! We also offer custom development and virtual Salesforce administration services.",https://www.cloudanswers.com,help@cloudanswers.com,"Boston, Massachusetts, USA"
+Sales Activity Dashboard,Free,Dashboards & Reports,-12,1/10/2019,,"Visibility of Sales Activities: Custom reports based exclusively on the out-of-the-box application
+
+Visibility of Sales Professional Work Rate: Custom Dashboard
+
+Spot Neglected Opportunities & Accounts","This Dashboard is important to Sales Professionals who wish to have visibility of the types of Activity their Sales Teams are engaging in on Opportunities. This is particularly helpful in team selling environments where together with Account Executives the Opportunity may have Activities from Sales Consulting, Engineering and Professional Services teams.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Sales Activity Dashboard 1.0
+Version
+1.0 / 1.0.0
+Listed On
+9/7/2006
+Latest Release
+1/10/2019
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+DocuSign Gen for Salesforce: Simplified custom document generation,Starting at $20 USD per user per month,Document Generation,-7,7/8/2021,"Automate the generation of agreements from Salesforce
+ Built for small businesses, Gen accelerates sales cycles by automating the generation of customized sales documents with just a few clicks from Salesforce.####**Try it free for 30 days!**","If you like DocuSign eSignature for Salesforce, you will love Gen: DocuSign Gen for Salesforce extends the DocuSign experience to document generation—with the ease of setup, management, and use that you expect from DocuSign.
+
+Stay in Salesforce: Your reps can generate agreements from opportunity data without leaving the Salesforce user interface, in either Lightning or Classic.
+
+Purpose-built for small businesses: Try, buy, and configure yourself. Use clicks, not code to create templates, without the need to pay for deployment help.","Document generation done right:####• Seamless merging of Salesforce data: Eliminate data entry errors by automatically pulling in Salesforce customer, product, and pricing data.####• Dynamic tables: Generate a quote or invoice that includes a table without the need to reformat.####• Generated documents are editable: Reps, legal reviewers and customers can review documents in PDF, Word or DocuSign agreement formats.####• Admin-friendly: Drag and drop template creation. Conditional content allows for fewer templates, which means less admin overhead.####• “Conditional content” that customizes itself: Leverage business rules to drive the inclusion or exclusion of content sections by factors like geography and deal size.####• Admin-friendly: Setup and template creation are guided. Conditional content allows for fewer templates, which means less admin overhead.####• Powered by Lightning: Offers a modern, mobile-friendly user experience. Salesforce Classic compatible.####• Integrated with Salesforce and DocuSign eSignature: Automate the agreement process before, during, and after eSignature.####DocuSign for Salesforce connector is required to use.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements","866.219.4318
+Knowledge Base
+https://support.docusign.com","Package Name
+DocuSign Apps Launcher
+Version
+3.3.1 / 3.3.1
+Listed On
+3/20/2019
+Latest Release
+7/8/2021
+Languages
+English,French,German,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Traditional Chinese","Automate and connect the entire agreement process with DocuSign. ##DocuSign helps organizations connect and automate how they prepare, sign, act on, and manage agreements. As part of the DocuSign Agreement Cloud, DocuSign offers eSignature: the world’s #1 way to sign electronically on practically any device, from almost anywhere, at any time*. Today, more than 500,000 customers and hundreds of millions of users in over 180 countries use DocuSign to accelerate the process of doing business and to simplify people's lives. ####More than electronic signature. ##We pioneered eSignature and now we’ve created the world’s first agreement cloud. The DocuSign Agreement Cloud is a comprehensive set of more than a dozen applications and 350 integrations for connecting and automating the entire agreement process. With DocuSign, organizations can do business faster with less risk, lower costs, and better experiences for customers, partners, and employees.",https://www.docusign.com/solutions/salesforce,getdfs@docusign.com,"San Francisco, CA, USA"
+Salesforce Lead Capture,Free,Campaign Management,-110,11/14/2016,"Automate leads from Facebook Lead Ads directly into Sales Cloud
+ Lead Capture for Sales Cloud allows brands running demand generation campaigns on Facebook using Lead Ads to automate lead form submissions directly into Sales Cloud and map them to Lead Objects.","Automate the flow of customer information directly from Facebook into Sales Cloud for sales teams to manage lead pipeline directly. Leads appears automatically in real time, using a secure connection to Facebook.
+
+If you're also a Marketing Cloud customer, ensure the sales process is in sync with all other customer messaging across channels like email, mobile, social with Journey Builder and manage your Facebook audiences with Advertising Studio.
+
+Facebook lead forms are mobile-device friendly and designed for the least amount of typing possible. It’s fast and easy for prospects to give you accurate, actionable info so you can connect with them as a part of your sales process.",Find your best prospects and next great customers from over 1.7 billion people on Facebook and bring those leads automatically into Salesforce so your Sales teams can begin working and closing that potential new business as quickly as possible.####Lead Capture for Sales Cloud allows brands running demand generation campaigns on Facebook using Lead Ads to automate lead form submissions directly into Sales Cloud and map them to Lead Objects.####Lead Capture for Sales Cloud extends the power of your digital advertising and our lead automation solutions at Salesforce including Pardot.,"Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements","Knowledge Base
+https://help.salesforce.com","Package Name
+Lead Capture
+Version
+2.7 / 2.7.0
+Listed On
+10/10/2016
+Latest Release
+11/14/2016
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+"Genesys Cloud for Salesforce | CTI, Omni-Channel, HVS, Dialer, BYOT Voice",Starting at $15 USD per user per month,Telephony,-5,6/24/2021,"The leading, all-in-one, composable contact center and CX platform
+ A true cloud offering, Genesys Cloud for Salesforce includes a feature-rich, pre-built integration for instant impact and the ability for deep customization to optimize your existing Salesforce, processes, and vision. Service Cloud Voice BYOT ready.","Immediate impact out of the cloud:##A pre-built, packaged integration that is easily deployed by everyday admins or non-developers with powerful features that work instantly out of the cloud so you can get your agents up and running in minutes.
+
+Extend easier:##Combining strength with strength, IT designs how to best unify the desktop, routing, orchestration and automation capabilities using no-code tools that abstract and automate the development process.
+
+Limitless customization:##Build a truly differentiated CX practice that stands apart with deep code-level customization and automation. Develop sophisticated processes and campaigns that are unique to your Salesforce, industry, and processes.","2020 Leader in Gartner Contact Center as a Service Magic Quadrant####Integrating Salesforce with a CTI provider is table stakes. Everyone does it. However, to truly differentiate your CX, you’ll need more than just plain telephony.####Built to handle any channel, no CX platform pairs a broader and deeper set of digital, voice, AI, and WEM capabilities with a more scalable and composable platform than Genesys Cloud.####Deploy quickly with powerful, pre-packaged features, WebRTC softphones, and extend easier with simple automations, custom screenpops and single sign-on (SSO). Genesys Cloud is 100% cloud-based so there’s nothing to install, maintain or back up.####Manage, track, and queue omnichannel interactions within a single Salesforce agent interface. The integration provides embedded call controls, click-to-dial, outbound campaigns, screen pop and presence management. Screenpops and automated call logging enable a 360 view of the customer and conversation.####Create a company culture that attracts and retains the best employees with built-in workforce engagement management (WEM). ####Leverage our API-first open architecture for even deeper integration and customization.","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance, Essentials
+Other System Requirements
+To use Genesys Cloud for Salesforce, purchase appropriate licenses for Genesys Cloud, configure Genesys Cloud permissions and configure Salesforce to display the softphone.","+1-888-369-5555
+Ëmail
+customercare@genesys.com
+Knowledge Base
+https://help.mypurecloud.com","Package Name
+Genesys Cloud for Salesforce
+Version
+4.4 / 4.4.0
+Listed On
+1/15/2016
+Latest Release
+6/24/2021
+Languages
+Dutch,English,French,German,Italian,Japanese,Korean,Portuguese,Simplified Chinese,Spanish,Swedish","Genesys® powers 25 billion of the world’s best customer experiences each year. Our success comes from connecting employee and customer conversations on any channel, every day. Over 10,000 companies in 100+ countries trust our #1 customer experience platform to drive great business outcomes and create lasting relationships. Combining the best of technology and human ingenuity, we build solutions that mirror natural communication and work the way you think. Our industry-leading solutions foster true omnichannel engagement, performing equally well across all channels, on-premise and in the cloud. Experience communication as it should be: fluid, instinctive and profoundly empowering.",http://www.genesys.com/,info@genesys.com,"Daly City, CA, USA"
+Nintex Drawloop DocGen® | No-Code Document Generation,Starting at $20 USD per user per month,Contract Management,-328,6/10/2021,"Document Generation with clicks, not code
+ Nintex Drawloop DocGen® makes it easy for anyone to automate the creation of mission-critical documents —regardless of technical prowess or IT availability.  Quotes, proposals, NDAs, order forms, contracts, invoices— are just a few clicks away.","ANY DATA ##Generate documents with just a few clicks using data from Salesforce records, forms or other systems to build customized documents that empower your employees and accelerate your operations.
+
+ANY DOCUMENT ##Improve compliance and securely create contracts, invoices, RFPs, and more by using any combination of Word, Excel, PowerPoint and PDF templates.
+
+ANY DELIVERY ##Nintex Drawloop DocGen can ensure ensure documents get where they need to go.  Send by eSign, email, file transfer or simply download to archive or share documents with one or multiple contacts with a click of a button.","ANY CLOUD ##Use any Salesforce cloud to create, manage and generate documents across Classic, Lightning or Mobile without losing the benefits of an easy-to-use and familiar user experience within Salesforce.  ## ##ALWAYS ON-TRACK ##Manage access to documents based on stage or user permissions and eliminate human errors with pre-defined templates, ensuring legal and policy compliance. Auto-assign tasks, alerts and follow-ups to make sure nothing falls through the cracks. ####ALWAYS SECURE ##Nintex Drawloop DocGen is available as a FedRamp IL2 Moderate approved application that works natively in Salesforce. The Nintex Drawloop API has achieved SOC 2 certification to ensure your data is securely managed at all times.   ####EASY TO USE ##The Nintex Drawloop DocGen drag-and-drop designer interface makes it easy for any user with no coding experience to build automated solutions for existing document creation tasks that would otherwise have to be done manually. ####AUTOMATE AND OPTIMIZE ##Document driven business processes such as:## ##> Contracts ##> Quotes ##> Proposals ##> Work orders ##> Shipping documents ##> Account plans ##> Invoices/receipts ##> Reports & charts ##> And more!","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+Works with Chrome, Firefox, Internet Explorer, Edge, and Safari.","(425) 533-2827, option 2 then 2 again
+Ëmail
+support@nintex.com
+Knowledge Base
+http://help.nintex.com/en-US/docgen/docgen-portal.htm","Package Name
+Nintex DocGen
+Version
+17.8 / 17.8.0
+Listed On
+3/12/2007
+Latest Release
+6/10/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese","Nintex—the recognized global leader in document generation and workflow automation—makes it easy for you to empower your line of business workers to manage, automate and optimize their own business processes. From simple to complex--all without leaving the familiarity of Salesforce, having to write a single line of code, or relying on IT. From contract lifecycle management to empowering customer service, thousands of the world’s leading businesses turn to Nintex to be the document automation platform that powers their businesses across a wide range of use cases on the Salesforce platform. The result? Nintex workflows and document runs have executed billions of times, saving organizations hundreds of years of productivity, enabling their employees to be more strategic, creative, and innovative.",https://www.nintex.com/workflow-automation/salesforce/,sales@nintex.com,"Bellevue, WA, USA"
+Omni-channel Performance Dashboard,Free,Agent Productivity,-6,2/3/2020,"Understand agent productivity and workload
+ Want to understand where you agents are focusing their time and provide great coaching moments? This is the dashboard for you!",,"Want to understand where you agents are focusing their time and provide great coaching moments? This is the dashboard for you!####This dashboard accesses data from the AgentWork object which is where some of the Omni transaction data is stored, as well as ServiceResource and ServiceResourceSkill where the Skill information for Call Center Agents are located.####This will save you time in having to build all of these reports from scratch.####Please set up omni-channel with Service Setup before attempting to install this.####https://help.salesforce.com/articleView?id=console_lex_service_setup_omnichannel.htm&type=5####https://www.youtube.com/watch?v=dHPPPuFgjes","Salesforce Edition
+Professional, Enterprise, Unlimited, Developer, Performance, Essentials
+Other System Requirements
+Requires Omni-Channel",,"Package Name
+Omni Dashboard
+Version
+Omni Dashboard / 1.2.0
+Listed On
+1/28/2020
+Latest Release
+2/3/2020
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+Box for Salesforce,Free,Document Management,-145,5/4/2021,"Easily share, access, and manage Box files within Salesforce
+ Box for Salesforce empowers teams to collaborate more effectively on sales content without ever leaving Salesforce. As the hub for your content, Box centralizes documents across your organization to streamline processes and accelerate sales cycles.","Align Sales and content: Embed the Box interface within Salesforce records to provide users with a quick way to access and manage content without leaving Salesforce. Associate Box folders with records to ensure the most important content is accessible.
+
+Work anywhere, from any device: Close deals on-the-go with Salesforce1 mobile application compatibility. Leverage all of the same Box for Salesforce desktop functionality to access sales content and work more effectively while in the field.
+
+Maintain content permissions: Map and sync Box and Salesforce permissions to ensure the right people have access to the right content. Enable Auto-Collab to streamline work and automatically add record viewers as collaborators to associated Box folders.","Top features: ####✔ Link Box content with specific Salesforce records, including custom objects ##✔ View files directly in Salesforce and Salesforce1##✔ Assign tasks to team members, comment on files, and edit documents with one click##✔ Share files and collaborate with team members, even if they are not Salesforce users##✔ Monitor customer activity (like downloads) in real-time ##✔ Leverage other apps, like DocuSign or Chatter, directly from the Box widget ##✔ Compatible with both Salesforce Lightning and Classic##✔ Customizable to support your teams' workflows with the Box for Salesforce Developer Toolkit","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+Please ensure that you are using the latest version of your web browser.","1-(877)-729-4269
+Ëmail
+support@box.com
+Knowledge Base
+https://success.box.com","Package Name
+Box for Salesforce
+Version
+Box for Salesforce 3.63 / 3.63.0
+Listed On
+10/22/2009
+Latest Release
+5/4/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese","Box (NYSE:BOX) is the cloud content management company that empowers enterprises to revolutionize how they work by securely connecting their people, information, and applications.  ####Founded in 2005, Box powers more than 100,000 businesses globally, including AstraZeneca, General Electric, P&G, and Gap.  Box is headquartered in Redwood City, CA, with offices across the United States, Europe, and Asia.  ####To learn more about Box, visit https://www.box.com/.",https://www.box.com,support@box.com,"Redwood City, CA, USA"
+Survey Force by Salesforce Labs,Free,Surveys,-213,5/4/2021,"Create surveys and track results in salesforce.com.
+ Survey Force (Lightning Ready) allows you to create, send, and capture customer feedback natively in salesforce.com.","Easily Create and Order Questions via Drag and Drop
+
+Distribute Surveys Via Email Templates and Sites
+
+Capture Results from Contacts and/or Cases, use Reports and Dashboards to Analyze","Survey Force is a Free Salesforce Labs application that allows you to capture feedback in salesforce.com.  Survey Force allows you to create 3 types of questions (single select, multi select and free form text) and order your questions via drag and drop.  Surveys are deployed via email templates and Sites.   Survey results are related to the Contact and/or Case. Reports and Dashboards can be leveraged to analyze survey results.####Note: This is unmanaged app and cannot be certified.  Because of that, this app cannot be installed in Professional Edition.","Salesforce Edition
+Enterprise, Unlimited, Developer
+Other System Requirements
+No additional system requirements",,"Package Name
+Survey Force
+Version
+Survey Force / 2.59.0
+Listed On
+8/30/2010
+Latest Release
+5/4/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Deployment Manager for Marketing Cloud,Free,Campaign Management,-8,,"Import and Export Marketing Cloud Configuration
+ Easily distribute campaign configuration to other Marketing Cloud Enterprises and Business Units","Promote campaign configuration between your Dev, Test, and Production accounts. Use Deployment Manager to streamline your lifecycle management processes and quickly promote campaigns up the pipeline.
+
+Migrate and onboard new accounts by easily templatizing configuration. Use Deployment Manager to create industry and company-specific configurations which can be deployed to multiple accounts.
+
+Move faster by distributing campaign configuration to other accounts. Let Deployment Manager do the hard work for you.","WHAT WE'RE DOING:##We’re building a tool that all customers can use to export campaign configuration from one Marketing Cloud account, and then import that configuration into a separate Marketing Cloud account. ####Currently, Deployment Manager replicates the design (canvas structure) of journeys, however, we plan to iteratively add support for additional functionality throughout the year. ####HOW IT WORKS:##Use Deployment Manager to take a snapshot of your campaign configuration. The snapshot is then downloaded as a file. Navigate to another Enterprise or Business Unit and use Deployment Manager to deploy the snapshot. Deployment Manager will recreate the original snapshotted campaign configuration in the target account. View documentation at https://sfdc.co/deploymentmanagerdocs####MORE INFORMATION:##Learn more, ask questions, give feedback, and help build the roadmap in our Trailblazer Community: https://sfdc.co/depmgrcommunity####**CURRENT FUNCTIONALITY** ##- April: Ability to import/export designs of journeys (canvas structure).##- July: Ability to import/export data extension schemas##- Nov: Partial support for Automations & Contact Model Attribute Groups","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements",,,"Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+Nonprofit Success Pack,Free,,-8,5/4/2016,"The latest version of the salesforce.org Nonprofit Success Pack
+ The Nonprofit Success Pack is an easy-to-use fundraising and constituent management application on the Salesforce platform. A free and open-source application from Salesforce.org, NPSP harnesses the power of Salesforce's vibrant nonprofit community.","Easily and effectively manage users, donors, contacts, volunteers, and more. Track Households and connections between your organization's critical constituents.
+
+Track donations, pledges, recurring and planned giving, hard and soft credits, and much, much more. Reconcile general allocation units, cash, and revenue across your entire organization.
+
+Highly configurable and customizable, the Nonprofit Success Pack not only serves as a great donor management system right out of the box, but can evolve as your organization and its needs do the same.","Designed for nonprofits of all sizes, the Nonprofit Success Pack has undergone tremendous development since 2008 to become the most widely used nonprofit Salesforce application. ####The Nonprofit Success Pack is an-easy-to-use fundraising and constituent management application on the Salesforce platform. Driven by the Salesforce.org community, it's built specifically with the needs of nonprofits in mind. Whether your organization is all-volunteer, medium-sized, or well-established and resourced, NPSP will help you advance your mission -- as it's doing everyday for thousands of nonprofits.####The Nonprofit Success Pack is an open-source product provided by Salesforce.org. We support installations of the Nonprofit Success Pack managed package. We don't support unmanaged installations of this product.","Salesforce Edition
+Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+This listing requires you to have an existing Salesforce organization already setup, in trial or in production. To receive a new trial org, please visit http://www.salesforce.org/nonprofit/get-started/","Knowledge Base
+https://powerofus.force.com/articles/Resource/NPSP-Documentation","Package Name
+Nonprofit Starter Pack
+Version
+3.72 / 3.72.0
+Listed On
+5/1/2014
+Latest Release
+5/4/2016
+Languages
+English",,http://salesforce.org,,"San Francisco, CA"
+Formstack - Native form builder & data collection for Salesforce,Starting at $225 USD per user per month,IT & Administration,-183,8/18/2021,"Realize your Salesforce vision with Formstack Forms for Salesforce
+ Forms for Salesforce is a 100% native Salesforce form builder. Dynamically prefill forms, generate and update records, and connect to any standard or custom object without leaving your Salesforce account.####Click ""Get it Now"" for a free 14-day trial!","Eliminate Data Silos##Forget about paper forms and data silos. Use Formstack for Salesforce to automate processes, from data collection to digital signature.
+
+Save Valuable Time##Eliminate repetitive, time-consuming tasks with an all-in-one Salesforce solution. Formstack for Salesforce easily automates your most tedious processes.
+
+Consolidate Your Tools##Access a comprehensive suite of tools for Salesforce. Build digital forms, automate documents, and collect eSignatures without leaving Salesforce.","Forms for Salesforce##Build a form, customize the design, and collect data directly within your Salesforce org. Dynamically prefill data from any object and reimagine your form experience. Features include:####- Native Builder##- Salesforce Drag-and-Drop Form Builder##- Progressive Data Capture##- Payment Processing##- Community Cloud Forms##- Powerful Security (reCAPTCHA and compliance for HIPAA, FedRamp, and FERPA####Documents for Salesforce##Connect your Forms for Salesforce with Documents for Salesforce to further realize your Salesforce vision and create a seamless experience from data collection to document generation and even digital signature through Formstack Sign. Documents for Salesforce features include:####- Automated Document Creation##- One-Click Salesforce Documents##- Easy-to-Use Templates##- Multiple Delivery Options##- Flexible-Rules Engine##- Digital Signature Collection (via Formstack Sign)####Realize your Salesforce vision with Formstack for Salesforce. Click “Get it Now” to start your free 14-day trial!Or contact us to schedule a demo at https://www.formstack.com/contact-sales-salesforce.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+No additional system requirements","Ëmail
+sfappsupport@formstack.com
+Knowledge Base
+https://sfapphelp.formstack.com/hc/en-us","Package Name
+Formstack
+Version
+Formstack / 4.49.0
+Listed On
+9/4/2014
+Latest Release
+8/18/2021
+Languages
+English","Formstack is the go-to online forms provider for Salesforce users looking to collect and manage data. We support more than 25,000 customers nationwide looking to streamline data collection, automate workflows and save valuable time.",https://www.formstack.com/salesforce,sfappsupport@formstack.com,"Indianapolis, IN"
+Project Management Tool - PMT,Free,Project Management,-4,2/24/2021,"Free end-to-end project management solution built by Salesforce
+ Easily structure your projects & monitor progress to:##• make informed business decisions##• track benefits & proactively respond to project risks##• manage commitments & deliverables##• foster collaboration & transparency##*CHATTER ACTIVATION IS NEEDED*","ACCOUNTABILITY: Easily track upcoming tasks and key decisions. Roles and responsibilities are well- defined. No need to create project status slides.
+
+COLLABORATION: Embedded collaboration moves projects along quickly, even when multiple teams and regions are involved.
+
+ISSUE MANAGEMENT: Escalate business critical issues/risks/bugs with Cases. Focus on resolving late projects with path to green.","The Project Management Tool provides a global view of your project portfolio to better manage and monitor projects, and project resources. PMT is an application built on the Salesforce platform that facilitates project organization through programs, phases, and tasks.####Core project management features include: ####* mass creation and updating of records##* reminders and notifications ##* issue tracking and resolution##* resource allocation and availability##* real-time reports and dashboards##* mobile-ready ####PMT is proven to be effective with large cross-functional, multi-year projects. Anyone can successfully deliver a project with PMT. Come be a part of this journey with us!","Salesforce Edition
+Enterprise, Unlimited, Developer
+Other System Requirements
+Chatter",,"Package Name
+PMT
+Version
+ver 0.21 / 0.21.0
+Listed On
+2/11/2021
+Latest Release
+2/24/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff & other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,"San Francisco, CA, USA"
+"Survey Vista : 100% Native Salesforce Surveys, Forms, Quizzes, and Checklists",Free,Surveys,-37,9/8/2021,"Surveys and forms Data Never Leaves Salesforce & Protected by Salesforce!
+ Build corporate branded, mobile-friendly, dynamic salesforce survey and forms. Configurable scoring engine to turn surveys & forms into quizzes, questionnaires, checklists, and assessments such as Healthcare checklists, Lead Scoring, and policy quizzes.","Native Salesforce Surveys & Forms (Limits 15 questions per survey, 200 responses).##Achieve everything you can do with other frameworks such as Salesforce Survey, Survey Monkey, Get Feedback, FormTitan, FormAssembly, FormStack and Qualtrics, PLUS MORE...
+
+Salesforce Lightning Experience Survey, Form, Quiz, Checklist##Unlimited Paid Starting at US $999 per year per org (See Ardira WFM App)##Discount for nonprofits##FREE Implementation Services with Paid Subscription (Money Back Guarantee)
+
+FREE Support: email, phone, & web meetings.##Agile startup, new features quickly to make your life easier achieving business goals.##Cost effective Salesforce services to completely customize the SurveyVista Framework for your needs and integration.","SurveyVista##* Customer Satisfaction Surveys, Employee Satisfaction Surveys, Corporate Branded Forms (Registration, Volunteer, Donation…), Educational Experience Survey##* Checklists and Controls Assessments such as HIPAA, ISO, GDPR, HiTrust, and PCI##* Metrics, KRIs, and KPIs Collection####BUILD##* WYSIWYG Builder for quick authoring##* 25+ Question Types including Net Promoter Score, Rich Text, Signature, and Consent##* Condition Logic to Show / Hide Questions##* Personalize Surveys & Forms with your Salesforce data##* File Upload and Download support####DISTRIBUTE##* Automatically send survey using process builder after specific interactions, like case closed or opportunity lost##* Send Surveys to emails, users, contacts, and standard/custom object records##* Publishing on Community, internet or intranet or distribute using email marketing tools##* Embed survey questions in “One-Touch Emails” ####ANALYZE##* Response Mapping to Turn Surveys & Forms data into Salesforce data##* Configurable Scoring, Score Aggregation, and Roll up##* Measure trends using configurable Survey recurrence##* Open Schema to Analyze responses in Salesforce Reports and Dashboards","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+To allow non Salesforce Users to respond to surveys and forms, you have to set up Salesforce Public Site and/or Public Community. Please refer to the Knowledge Base.","Ëmail
+support@surveyvista.com
+Knowledge Base
+https://surveyvista.com/knowledge-base/","Package Name
+SurveyVista
+Version
+1.605.15 / 1.605.15
+Listed On
+6/19/2020
+Latest Release
+9/8/2021
+Languages
+Dutch,English,Finnish,French,German,Danish,Italian,Japanese,Korean,Portuguese,Russian,Simplified Chinese,Spanish,Swedish,Thai,Traditional Chinese",Ardira provides cloud software and services on #1 cloud platform Salesforce. Our team has acted as catalyst for growth for organizations by delivering enterprise software solutions & services on Salesforce platform.,https://ardira.com,info@ardira.com,"Santa Clara, CA, USA"
+Lead Capture for Marketing Cloud,Free,Marketing,0,,"Automate leads from Facebook directly into Marketing Cloud
+ Lead Capture for Marketing Cloud allows brands running demand generation campaigns on Facebook using Lead Ads to automate lead form submissions directly into Marketing Cloud data extensions.","Automate the flow of your lead pipeline from Facebook and integrate it into the Marketing Cloud for marketing teams to manage. Leads automatically appear in real time, using a secure connection to Facebook.
+
+If you're also a Sales Cloud customer, ensure that the marketing processes for your prospects are in sync with all other customer messaging across channels like email, mobile, and social.
+
+Facebook lead forms are mobile-device friendly and designed for the least amount of typing possible. It’s fast and easy for prospects to give you accurate, actionable info so you can connect with them as a part of your marketing campaigns.",Find your best prospects and next great customers from over 2.3 billion people on Facebook and bring those leads automatically into Salesforce so your marketing teams can begin working and closing that potential new business as quickly as possible.####Lead Capture for Marketing Cloud allows brands running demand generation campaigns on Facebook using Lead Ads to automate lead form submissions directly into Marketing Cloud data extensions.####Lead Capture for Marketing Cloud extends the power of your digital advertising and our lead automation solutions at Salesforce including Pardot.####Official Salesforce documentation can be found at https://sfdc.co/LeadCapture,"Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance, Essentials
+Other System Requirements
+Lead Capture supports all Marketing Cloud Editions.",,,"Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Milestones PM - Project and Task Management,Free,Project Management,-67,5/23/2021,"Free, Lightweight, Open Source Project Management for Your Org
+ Milestones PM is a native Force.com app designed to help you track and manage your projects and tasks. Milestones helps you track: projects, milestones, tasks, blocked tasks, overdue tasks, time, expense budgets, and has detailed reporting capabilities.","Track projects, milestones and tasks
+
+Create tasks using email integration or single line interface
+
+Great app for managing changes to your Salesforce configuration","Milestones PM is a native Force.com app designed to help you track and manage your projects and tasks.  Milestones PM has a simple interface, Chatter integration and detailed reporting capabilities.####Milestones PM includes:####* Rich data model##* Reports and dashboards##* Project summary screen##* Gantt chart with task / milestone drag functionality##* One line task creation##* Email integration with comment threading and attachment handling##* Template creation, export and import####Attn: Admins -- Milestones PM is a great app for managing changes to your Salesforce configuration.######Notes: ####* This is an updated and re-packaged version of the 2012 Milestones PM package previously published under Salesforce Labs.####* This app is unsupported. If you are interested in a commercial, fully supported app, check out Milestones PM+ from Passage Technology: http://appexchange.salesforce.com/listingDetail?listingId=a0N30000009uYYMEA2####* Do you have ideas on how to make Milestones PM better?  Please join the Milestones PM Community on Github:##http://blogs.developerforce.com/labs/2011/08/howto-contribute-to-milestones-pm-code-not-required-opensource.html","Salesforce Edition
+Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Milestones PM - Project and Task Management
+Version
+2.8 / 2.8.0
+Listed On
+8/7/2012
+Latest Release
+5/23/2021
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,
+Test Class Generator for Salesforce,Free,Admin & Developer Tools,-58,6/8/2018,"This app helps you to generate test class for controller, trigger & batch .
+ Test Class Generator is a 100% native app, it used to generate test class for controller, batch and trigger. You need to follow 3 simple steps in order to generate test class.##It writes unit tests effortlessly and improve productivity.","Start by installing ""Test Generator"" from AppExchange app store as free. User should have an access of apex classes, objects and its related fields for which they want to generate test class.
+
+It reads class's public metadata elements only, like properties, variables, methods and constructor. However, it parse both public/global classes, this app also supports writing test class for batches as well.
+
+This release is coming up with few limitations like, you can cover only positive unit test scenarios, negative test cases will be considered in next release. Also, it doesn't work for webservie callouts methods and triggers.","Test class generator can generate test classes very easily and quickly, It helps you to generate realistic test data which in turn let your test case pass in 1 go. The free version comes with few restricted features like generate test class for 400 lines of code and 2 setup objects only. ####Follow below 3 simple steps to generate test class:-####1. Select the controller for which you want to write a test class and click on ""Parse"" button, this will read the metadata for your selected class and shows its all its public properties, variables, parameterized constructor, inner classes and methods.##2. Choose properties, variable and constructor which you want to include in your test class, no need to select methods, as they will be added automatically.##3. Click Next, Now select objects and fields(mandatory fields will be selected by default) for which you want to create test data.##4. Before finalizing the test class, set properties value with object's field name(if any)and set the VF page name if you are passing parameters from UI.####Now you can see your test class, all you need to do is, copy generated code and save it as  new class. Run your test in order to see its coverage.","Salesforce Edition
+Professional, Enterprise, Unlimited, Force.com, Developer, Performance
+Other System Requirements
+No additional system requirements","Ëmail
+tgenbosster@gmail.com","Package Name
+Test Generator
+Version
+Tgen 2.30 / 2.30.0
+Listed On
+4/22/2017
+Latest Release
+6/8/2018
+Languages
+English",,,tgenbosster@gmail.com,India
+Asana for Salesforce,Free,Productivity,-5,3/22/2021,"Streamline team collaboration throughout the sales cycle
+ Your favorite work management and CRM tools together at last. Asana for Salesforce allows you to drive seamless collaboration between sales and other teams so you can deliver amazing customer experiences.","An Asana Business or Enterprise Subscription is required to use this App.
+
+Asana for Salesforce App overview and configuration instructions here: ##https://asana.com/guide/help/api/salesforce","With Asana for Salesforce, your teams can…####Break down silos## - Empower sales reps to request work from supporting teams like legal and marketing via Asana tasks, without leaving Salesforce.####Boost project visibility## - Allow sales reps to track the progress of Asana tasks within the context of specific Salesforce opportunities.####Kick off work on time, every time## - Auto-generate projects and use customizable project templates to move customers through the funnel as they reach key opportunity stages.## - Automate when Asana tasks are created via Salesforce’s powerful Process Builder.","Salesforce Edition
+Enterprise, Unlimited
+Other System Requirements
+No additional system requirements",,"Package Name
+Asana for Salesforce
+Version
+March 2021 / 1.16.0
+Listed On
+10/30/2019
+Latest Release
+3/22/2021
+Languages
+English",,,,
+Knowledge Base Dashboards & Reports,Free,Agent Productivity,-21,8/10/2010,,"Use the packaged reports to analyze various usage metrics
+
+Use the dashboards to monitor the knowledge base at a glance","The package contains reports that help you analyze various usage metrics for your Salesforce Knowledge articles, such as which articles are most popular according to views and ratings, how many articles have been created, updated, or published recently and by which user, how frequently the knowledge base is being searched, and which articles are associated with cases.####If the packaged reports don't provide what you need, create your own custom reports using the Knowledge custom report types. All Salesforce Knowledge organizations have five custom report types to choose from.####The three packaged dashboards display charts or components that correspond with packaged reports so that you can assess the usage for your knowledge base at a glance. You can also create a custom dashboard to use any custom reports you may have created.","Salesforce Edition
+Enterprise, Unlimited, Developer, Performance
+Other System Requirements
+No additional system requirements",,"Package Name
+Knowledge Base Dashboards & Reports
+Version
+Summer'10 / 1.23.0
+Listed On
+5/24/2010
+Latest Release
+8/10/2010
+Languages
+English","Salesforce Labs is a program that lets salesforce.com engineers, professional services staff and other employees share AppExchange apps they've created with the customer community.  Inspired by employees' work with customers of all sizes and industries, these apps range from simple utilities to entire vertical solutions.  Salesforce Labs apps are free to use, but are not official salesforce.com products, and should be considered community projects - these apps are not officially tested or documented.  For help on any Salesforce Labs app please consult the Salesforce message boards - salesforce.com support is not available for these applications. Questions? Please visit https://success.salesforce.com/answers.",https://appexchange.salesforce.com/collection/SalesforceLabs,,

@@ -1,3 +1,6 @@
 *.exe
+*.egg-info/
+*.vscode/
+
 HTML Pages/
 Project Description/
