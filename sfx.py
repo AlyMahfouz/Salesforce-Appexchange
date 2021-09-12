@@ -82,12 +82,18 @@ def get_Name() -> str:
         return re
 
 def get_Pricing() -> str:
+    re = ""
     try:
         re = app_soup.find_all('span', attrs={'id':'appxListingDetailPageId:AppxLayout:planList:0:planCharges'})
         return re[0].string.strip()
     except:
-        re = app_soup.find('span', attrs={'id':'appxListingDetailPageId:AppxLayout:j_id805'})
-        return list(re)[0].string.strip()
+        try:
+            re = app_soup.find('span', attrs={'id':'appxListingDetailPageId:AppxLayout:j_id805'})
+            return list(re)[0].string.strip()
+        except:
+            re = app_soup.find('p', attrs={'class':'appx-pricing-detail-header'})
+            return re.text.strip()
+    return re
 
 def get_Categories() -> str:
     try:
@@ -243,6 +249,7 @@ def get_Address() -> str:
     except:
         re = ""
         return re
+        
 #%%
 
 if __name__ == "__main__":
@@ -291,4 +298,3 @@ if __name__ == "__main__":
         
     df = df.replace('', np.nan)
     df.to_csv('Demo_SF.csv', index=False, encoding='utf-8')
-#%%
